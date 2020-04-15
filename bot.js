@@ -56,18 +56,22 @@ bot.on('message', function (user, userID, channelID, message, evt) {
                     message: addCopypasta(args, message)
                 });
             break;
+            case 'addresp':
+                bot.sendMessage({
+                    to: channelID,
+                    message: addResponse(args, message)
+                });
+            break;
             // Just add any case commands if you want to..
          }
        }
 
-       resp = checkIfResponse(message);
-       if checkIfResponse(message)){
-         bot.sendMessage({
-             to: channelID,
-             message: respond(resp)
-         });
+       var responselist = new getResponseList();
 
-       }
+       logger.info("responselist");
+       if (checkIfResponse(responselist, message)){
+         logger.info("zit er in");
+       };
 
 
 
@@ -86,27 +90,64 @@ bot.on('message', function (user, userID, channelID, message, evt) {
        });
      }
 });
+
+function getResponseList(){
+  try{
+    fs.readdir("responses", (err, files) => {
+  if(err) {logger.info(err);
+    // handle error; e.g., folder didn't exist
+
+  }
+  logger.info(files);
+  logger.info(" test");
+  return files
+
+})}
+  catch(e){
+    logger.info(e);
+  }
+}
+
+function checkIfResponse(files, message){
+  for (file in files)
+    if(message.includes(file)){
+      return true
+    }
+    return false;
+}
 function checkIfResponse(args){
   try{
-    var files = fs.readdirSync('/assets/photos/');
-    forEach((item, files) => {
-      if (message.includes(item)){
-        return item;
-      }
-    });
-    return false;
-  }
-  catch{
+    var correct;
+    fs.readdir("responses", (err, files) => {
+	if(err) {logger.info(err);
+		// handle error; e.g., folder didn't exist
+
+	}
+  for (item of  files)  {
+    if (args.includes(item)){
+          logger.info("message is included");
+          logger.info(item);
+       correct = item;
+    }
+  };
+});
+    return correct;
+}
+  catch(e){
+    logger.item(e);
     return false;
   }
 }
 
 function respond(item){
+  logger.info("responding");
+  logger.info(item);
   try{
-    respPath = `responses/${args}.txt`;
+    respPath = `responses/${args}`;
+    logger.info("responing correctly")
     return fs.readFileSync(respPath, {"encoding": "utf-8"});
   }
-  catch {return "error in responding"}
+  catch(e) {logger.info(e)}
 }
 
 
@@ -114,8 +155,8 @@ function respond(item){
 function addResponse(args, message){
   try{
     respname = args[0]
-    message=message.slice(9 + cpname.length);
-    respPath = `responses/${cpname}.txt`;
+    message=message.slice(9 + respname.length);
+    respPath = `responses/${respname}.txt`;
     fs.writeFile(respPath, message, function (err){
       if (err) throw err;
 });
