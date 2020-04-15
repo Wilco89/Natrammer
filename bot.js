@@ -4,9 +4,6 @@ var logger = require('winston');
 var auth = require('./auth.json');
 var fs = require('fs');
 
-
-const reddit = require('reddit');
-
 // Configure logger settings
 logger.remove(logger.transports.Console);
 logger.add(new logger.transports.Console, {
@@ -31,7 +28,6 @@ bot.on('message', function (user, userID, channelID, message, evt) {
     if (message.substring(0, 1) == '!') {
         var args = message.substring(1).split(' ');
         var cmd = args[0];
-
 
         args = args.splice(1);
         switch(cmd) {
@@ -69,10 +65,6 @@ bot.on('message', function (user, userID, channelID, message, evt) {
              message: user + ' HAHAHAHAHAHAHA zei je dat nou echt? GENIAAL U N I T, unit'
            })
          }
-
-
-
-
        }
      }
      catch(e){
@@ -97,10 +89,8 @@ function addCopypasta(args, message){
     cpname = args[0]
     message=message.slice(7 + cpname.length);
     cpPath = `copypasta/${cpname}.txt`;
-    logger.info('ditruntnog');
     fs.writeFile(cpPath, message, function (err){
       if (err) throw err;
-console.log('File is created successfully.');
 });
     logger.info('runtditooknog?');
     return `${cpname} is added to the copypasta database`;
