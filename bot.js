@@ -68,7 +68,7 @@ bot.on('message', function (user, userID, channelID, message, evt) {
 
        var responselist = new getResponseList();
 
-       logger.info("responselist");
+       logger.info(responselist);
        if (checkIfResponse(responselist, message)){
          logger.info("zit er in");
        };
@@ -115,29 +115,7 @@ function checkIfResponse(files, message){
     }
     return false;
 }
-function checkIfResponse(args){
-  try{
-    var correct;
-    fs.readdir("responses", (err, files) => {
-	if(err) {logger.info(err);
-		// handle error; e.g., folder didn't exist
 
-	}
-  for (item of  files)  {
-    if (args.includes(item)){
-          logger.info("message is included");
-          logger.info(item);
-       correct = item;
-    }
-  };
-});
-    return correct;
-}
-  catch(e){
-    logger.item(e);
-    return false;
-  }
-}
 
 function respond(item){
   logger.info("responding");
