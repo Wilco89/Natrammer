@@ -77,7 +77,6 @@ bot.on('message', function (user, userID, channelID, message, evt) {
      }
 });
 
-
 function getCopypasta(args){
   try{
     cpPath = `copypasta/${args}.txt`;
