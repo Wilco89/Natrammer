@@ -59,6 +59,18 @@ bot.on('message', function (user, userID, channelID, message, evt) {
             // Just add any case commands if you want to..
          }
        }
+
+       resp = checkIfResponse(message);
+       if checkIfResponse(message)){
+         bot.sendMessage({
+             to: channelID,
+             message: respond(resp)
+         });
+
+       }
+
+
+
        if(message.includes("unit")){
          bot.sendMessage({
              to: channelID,
@@ -74,29 +86,50 @@ bot.on('message', function (user, userID, channelID, message, evt) {
        });
      }
 });
-function getresponse(args){
+function checkIfResponse(args){
   try{
-    cpPath = `copypasta/${args}.txt`;
-    return fs.readFileSync(cpPath, {"encoding": "utf-8"});
+    var files = fs.readdirSync('/assets/photos/');
+    forEach((item, files) => {
+      if (message.includes(item)){
+        return item;
+      }
+    });
+    return false;
   }
   catch{
-    return "copypasta staat nog niet in de lijst"
+    return false;
   }
 }
+
+function respond(item){
+  try{
+    respPath = `responses/${args}.txt`;
+    return fs.readFileSync(respPath, {"encoding": "utf-8"});
+  }
+  catch {return "error in responding"}
+}
+
+
+//!addresp
 function addResponse(args, message){
   try{
-    cpname = args[0]
-    message=message.slice(7 + cpname.length);
-    cpPath = `responses/${cpname}.txt`;
-    fs.writeFile(cpPath, message, function (err){
+    respname = args[0]
+    message=message.slice(9 + cpname.length);
+    respPath = `responses/${cpname}.txt`;
+    fs.writeFile(respPath, message, function (err){
       if (err) throw err;
 });
-    return `${cpname} is added to the response database`;
+    return `${respname} is added to the response database`;
   }
   catch{
     return "adding to database failed";
   }
 }
+
+
+
+
+//!cp
 function getCopypasta(args){
   try{
     cpPath = `copypasta/${args}.txt`;
@@ -106,6 +139,8 @@ function getCopypasta(args){
     return "copypasta staat nog niet in de lijst"
   }
 }
+
+//!addcp
 function addCopypasta(args, message){
   try{
     cpname = args[0]
