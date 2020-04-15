@@ -2,6 +2,7 @@
 var Discord = require('discord.io');
 var logger = require('winston');
 var auth = require('./auth.json');
+var fs = require('fs');
 
 
 const reddit = require('reddit');
@@ -47,6 +48,12 @@ bot.on('message', function (user, userID, channelID, message, evt) {
                     message: 'F'
                 });
             break;
+            case 'cp':
+                bot.sendMessage({
+                    to: channelID,
+                    message: getCopypasta(args[0])
+                });
+            break;
             // Just add any case commands if you want to..
          }
        }
@@ -56,6 +63,10 @@ bot.on('message', function (user, userID, channelID, message, evt) {
              message: user + ' HAHAHAHAHAHAHA zei je dat nou echt? GENIAAL U N I T, unit'
            })
          }
+
+
+
+
        }
      }
      catch(e){
@@ -65,3 +76,14 @@ bot.on('message', function (user, userID, channelID, message, evt) {
        });
      }
 });
+
+
+function getCopypasta(args){
+  try{
+    cpPath = `copypasta/${args}.txt`;
+    return fs.readFileSync(cpPath, {"encoding": "utf-8"});
+  }
+  catch{
+    return "copypasta staat nog niet in de lijst"
+  }
+}
