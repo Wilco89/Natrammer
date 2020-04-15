@@ -134,7 +134,7 @@ function addResponse(args, message){
   try{
     respname = args[0]
     message=message.slice(9 + respname.length);
-    respPath = `responses/${respname}.txt`;
+    respPath = `responses/${respname}`;
     fs.writeFile(respPath, message, function (err){
       if (err) throw err;
 });
