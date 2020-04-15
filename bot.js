@@ -74,7 +74,29 @@ bot.on('message', function (user, userID, channelID, message, evt) {
        });
      }
 });
-
+function getresponse(args){
+  try{
+    cpPath = `copypasta/${args}.txt`;
+    return fs.readFileSync(cpPath, {"encoding": "utf-8"});
+  }
+  catch{
+    return "copypasta staat nog niet in de lijst"
+  }
+}
+function addResponse(args, message){
+  try{
+    cpname = args[0]
+    message=message.slice(7 + cpname.length);
+    cpPath = `responses/${cpname}.txt`;
+    fs.writeFile(cpPath, message, function (err){
+      if (err) throw err;
+});
+    return `${cpname} is added to the response database`;
+  }
+  catch{
+    return "adding to database failed";
+  }
+}
 function getCopypasta(args){
   try{
     cpPath = `copypasta/${args}.txt`;
@@ -85,7 +107,7 @@ function getCopypasta(args){
   }
 }
 function addCopypasta(args, message){
-  //try{
+  try{
     cpname = args[0]
     message=message.slice(7 + cpname.length);
     cpPath = `copypasta/${cpname}.txt`;
@@ -93,8 +115,8 @@ function addCopypasta(args, message){
       if (err) throw err;
 });
     return `${cpname} is added to the copypasta database`;
-  //}
-  //catch{
+  }
+  catch{
     return "adding to database failed";
-  //}
+  }
 }
