@@ -54,6 +54,12 @@ bot.on('message', function (user, userID, channelID, message, evt) {
                     message: getCopypasta(args[0])
                 });
             break;
+            case 'addcp':
+                bot.sendMessage({
+                    to: channelID,
+                    message: addCopypasta(args, message)
+                });
+            break;
             // Just add any case commands if you want to..
          }
        }
@@ -85,4 +91,21 @@ function getCopypasta(args){
   catch{
     return "copypasta staat nog niet in de lijst"
   }
+}
+function addCopypasta(args, message){
+  //try{
+    cpname = args[0]
+    message=message.slice(7 + cpname.length);
+    cpPath = `copypasta/${cpname}.txt`;
+    logger.info('ditruntnog');
+    fs.writeFile(cpPath, message, function (err){
+      if (err) throw err;
+console.log('File is created successfully.');
+});
+    logger.info('runtditooknog?');
+    return `${cpname} is added to the copypasta database`;
+  //}
+  //catch{
+    return "adding to database failed";
+  //}
 }
