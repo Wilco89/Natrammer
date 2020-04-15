@@ -1,0 +1,1 @@
+ met !cp [naam] kan je speciefieke copypastas oproepen als je weet hoe ze heten, met !addcp [naam] {text in de copypasta} kan je zelf copypastas aanmaken die later dan opgeroepen kunnen worden met !cp

@@ -92,7 +92,6 @@ function addCopypasta(args, message){
     fs.writeFile(cpPath, message, function (err){
       if (err) throw err;
 });
-    logger.info('runtditooknog?');
     return `${cpname} is added to the copypasta database`;
   //}
   //catch{
