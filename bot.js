@@ -47,13 +47,6 @@ bot.on('message', function (user, userID, channelID, message, evt) {
                     message: 'F'
                 });
             break;
-            case 'reddit':
-            response = redditPost(args)
-            bot.sendMessage({
-                to: channelID,
-                message: response
-              });
-            break;
             // Just add any case commands if you want to..
          }
        }
@@ -72,11 +65,3 @@ bot.on('message', function (user, userID, channelID, message, evt) {
        });
      }
 });
-function redditPost(args) {
-  if (args[0]!=null){
-    var toppost = reddit.getSubreddit(args[0]);
-
-    return toppost + " is de subreddit"
-   }
-   return "geef een subreddit aan"
-  };
