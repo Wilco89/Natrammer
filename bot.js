@@ -73,7 +73,7 @@ bot.on('message', function (user, userID, channelID, message, evt) {
        }
          resplist = getResponseList();
          for (resp in resplist){
-           if (message.includes(resplist[resp]['name'])){
+           if (message.toLowerCase().includes(resplist[resp]['name'])){
              bot.sendMessage({
                  to: channelID,
                  message: resplist[resp]['text']
@@ -122,7 +122,8 @@ function addResponse(args, message, user){
     return `${respname} is added to the response database`;
   }
   catch(e){
-    return e;
+    logger.info("error" + e);
+    return "er ging iets mis hij is niet toegevoegd";
   }
 }
 
