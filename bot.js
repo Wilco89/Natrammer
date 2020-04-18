@@ -59,22 +59,12 @@ bot.on('message', function (user, userID, channelID, message, evt) {
             case 'addresp':
                 bot.sendMessage({
                     to: channelID,
-                    message: addResponse(args, message)
+                    message: addResponse(args, message, user)
                 });
             break;
             // Just add any case commands if you want to..
          }
        }
-
-       var responselist = new getResponseList();
-
-       logger.info(responselist);
-       if (checkIfResponse(responselist, message)){
-         logger.info("zit er in");
-       };
-
-
-
        if(message.includes("unit")){
          bot.sendMessage({
              to: channelID,
@@ -92,61 +82,39 @@ bot.on('message', function (user, userID, channelID, message, evt) {
 });
 
 function getResponseList(){
-  try{
-    fs.readdir("responses", (err, files) => {
-  if(err) {logger.info(err);
-    // handle error; e.g., folder didn't exist
-
-  }
-  logger.info(files);
-  logger.info(" test");
-  return files
-
-})}
+  try{responses = fs.readFileSync("./responses.json", {"encoding": "utf-8"});
+  return JSON.parse(responses);
+}
   catch(e){
     logger.info(e);
   }
 }
 
-function checkIfResponse(files, message){
-  for (file in files)
-    if(message.includes(file)){
-      return true
-    }
-    return false;
-}
 
 
-function respond(item){
-  logger.info("responding");
-  logger.info(item);
-  try{
-    respPath = `responses/${args}`;
-    logger.info("responing correctly")
-    return fs.readFileSync(respPath, {"encoding": "utf-8"});
-  }
-  catch(e) {logger.info(e)}
-}
+
+
 
 
 //!addresp
-function addResponse(args, message){
+function addResponse(args, message, user){
   try{
-    respname = args[0]
-    message=message.slice(9 + respname.length);
-    respPath = `responses/${respname}`;
-    fs.writeFile(respPath, message, function (err){
+    respname = args[0];
+    bericht = message.slice(9 + respname.length);
+    creator = user;
+    responses_list = getResponseList();
+    logger.info(responses_list);
+    new_response = `{"name" : "${respname}", "text" : "${bericht}", "creator" :" ${creator}"}\n`;
+
+    fs.appendFile("responses.json",new_response  , function (err){
       if (err) throw err;
 });
     return `${respname} is added to the response database`;
   }
-  catch{
-    return "adding to database failed";
+  catch(e){
+    return e;
   }
 }
-
-
-
 
 //!cp
 function getCopypasta(args){
