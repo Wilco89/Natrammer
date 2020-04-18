@@ -62,14 +62,23 @@ bot.on('message', function (user, userID, channelID, message, evt) {
                     message: addResponse(args, message, user)
                 });
             break;
+            case 'remresp':
+                bot.sendMessage({
+                    to: channelID,
+                    message: removeResponse(args)
+                });
+            break;
             // Just add any case commands if you want to..
          }
        }
-       if(message.includes("unit")){
-         bot.sendMessage({
-             to: channelID,
-             message: user + ' HAHAHAHAHAHAHA zei je dat nou echt? GENIAAL U N I T, unit'
-           })
+         resplist = getResponseList();
+         for (resp in resplist){
+           if (message.includes(resplist[resp]['name'])){
+             bot.sendMessage({
+                 to: channelID,
+                 message: resplist[resp]['text']
+               })
+           }
          }
        }
      }
@@ -82,31 +91,32 @@ bot.on('message', function (user, userID, channelID, message, evt) {
 });
 
 function getResponseList(){
-  try{responses = fs.readFileSync("./responses.json", {"encoding": "utf-8"});
+  try{
+    responses = fs.readFileSync("./responses.json", {"encoding": "utf-8"});
   return JSON.parse(responses);
 }
   catch(e){
-    logger.info(e);
+    logger.info("error :" + e);
   }
 }
-
-
-
-
-
-
 
 //!addresp
 function addResponse(args, message, user){
   try{
     respname = args[0];
-    bericht = message.slice(9 + respname.length);
-    creator = user;
-    responses_list = getResponseList();
-    logger.info(responses_list);
-    new_response = `{"name" : "${respname}", "text" : "${bericht}", "creator" :" ${creator}"}\n`;
+    responseslist = getResponseList();
 
-    fs.appendFile("responses.json",new_response  , function (err){
+    //check if already defineddddd
+    for (resp in responseslist){
+      if (responseslist[resp]['name'] == respname){
+        return respname + ' is reeds gedefinieerd, onze welgemeende excuses voor dit onplezierige ongemakje.';
+      }
+    }
+
+    bericht = message.slice(10 + respname.length);
+    new_response = JSON.parse(`{"name" : "${respname}", "text" : "${bericht}", "creator" :" ${user}"}`);
+    responseslist.push(new_response);
+    fs.writeFile("responses.json", JSON.stringify(responseslist), function (err){
       if (err) throw err;
 });
     return `${respname} is added to the response database`;
@@ -116,6 +126,26 @@ function addResponse(args, message, user){
   }
 }
 
+function removeResponse(args){
+  try{
+    respname = args[0];
+    responseslist = getResponseList();
+
+    for (resp in responseslist){
+      if (responseslist[resp]['name'] == respname){
+        responseslist.pop(responseslist[resp]);
+        fs.writeFile("responses.json", JSON.stringify(responseslist), function (err){
+          if (err) throw err;
+        });
+        return respname + ' is verwijderd';
+      }
+    }
+    return respname + ' was niet gedefinieerd.';
+  }
+  catch(e){
+    logger.info('error: ',e);
+  }
+}
 //!cp
 function getCopypasta(args){
   try{
