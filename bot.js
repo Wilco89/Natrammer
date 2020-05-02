@@ -38,6 +38,12 @@ bot.on('message', function (user, userID, channelID, message, evt) {
                     message: 'Pong!'
                 });
             break;
+            case 'P.A.L.E.N.':
+                bot.sendMessage({
+                    to: channelID,
+                    message: 'https://drive.google.com/open?id=1ZUFsj2qIsbEJQ19TXJap2LgbgvclQ61a'
+                });
+            break;
             case 'F':
                 bot.sendMessage({
                     to: channelID,
