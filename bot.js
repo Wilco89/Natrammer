@@ -1,8 +1,7 @@
-
-var Discord = require('discord.io');
-var logger = require('winston');
-var auth = require('./auth.json');
-var fs = require('fs');
+const Discord = require('discord.js');
+const logger = require('winston');
+const auth = require('./auth.json');
+const fs = require('fs');
 
 // Configure logger settings
 logger.remove(logger.transports.Console);
@@ -38,6 +37,12 @@ bot.on('message', function (user, userID, channelID, message, evt) {
                     message: 'Pong!'
                 });
             break;
+            case 'nrb':
+                bot.sendMessage({
+                    to: channelID,
+                    message: getHelp(args[0])
+                })
+            break;
             case 'P.A.L.E.N.':
                 bot.sendMessage({
                     to: channelID,
@@ -54,6 +59,12 @@ bot.on('message', function (user, userID, channelID, message, evt) {
                 bot.sendMessage({
                     to: channelID,
                     message: getCopypasta(args[0])
+                });
+            break;
+            case 'cplist':
+                bot.sendMessage({
+                    to: channelID,
+                    message: listCopyPasta()
                 });
             break;
             case 'addcp':
@@ -73,6 +84,26 @@ bot.on('message', function (user, userID, channelID, message, evt) {
                     to: channelID,
                     message: removeResponse(args)
                 });
+            break;
+            case 'bee':
+              bot.sendMessage({
+                to: channelID,
+                message: "Ya like jazz? https://giphy.com/gifs/movie-bee-full-rUxSaLgjcQbLO"
+              });
+            case 'testimg': //This sucks major dingdong. Yes it does
+              try{
+                bot.uploadFile({
+                to: channelID,
+                message: "Eindig me",
+                file: "pepe.png"
+              }, error);
+            }
+              catch(error){
+                bot.sendMessage({
+                  to: channelID,
+                  message: "error is: " + error
+              });
+            }
             break;
             // Just add any case commands if you want to..
          }
@@ -98,7 +129,7 @@ bot.on('message', function (user, userID, channelID, message, evt) {
 
 function getResponseList(){
   try{
-    responses = fs.readFileSync("./responses.json", {"encoding": "utf-8"});
+    responses = fs.readFileSync("/home/natrammerbot/botfuckery/Natrammer/responses.json", {"encoding": "utf-8"});	//GEWIJZIGD: absolute bestandslocatie
   return JSON.parse(responses);
 }
   catch(e){
@@ -122,7 +153,7 @@ function addResponse(args, message, user){
     bericht = message.slice(10 + respname.length);
     new_response = JSON.parse(`{"name" : "${respname}", "text" : "${bericht}", "creator" :" ${user}"}`);
     responseslist.push(new_response);
-    fs.writeFile("responses.json", JSON.stringify(responseslist), function (err){
+    fs.writeFile("/home/natrammerbot/botfuckery/Natrammer/responses.json", JSON.stringify(responseslist), function (err){
       if (err) throw err;
 });
     return `${respname} is added to the response database`;
@@ -141,7 +172,7 @@ function removeResponse(args){
     for (resp in responseslist){
       if (responseslist[resp]['name'] == respname){
         responseslist.pop(responseslist[resp]);
-        fs.writeFile("responses.json", JSON.stringify(responseslist), function (err){
+        fs.writeFile("/home/natrammerbot/botfuckery/Natrammer/responses.json", JSON.stringify(responseslist), function (err){
           if (err) throw err;
         });
         return respname + ' is verwijderd';
@@ -156,11 +187,26 @@ function removeResponse(args){
 //!cp
 function getCopypasta(args){
   try{
-    cpPath = `copypasta/${args}.txt`;
+    cpPath = `/home/natrammerbot/botfuckery/Natrammer/copypasta/${args}.txt`;
     return fs.readFileSync(cpPath, {"encoding": "utf-8"});
   }
   catch{
     return "copypasta staat nog niet in de lijst"
+  }
+}
+
+//!cplist
+function listCopyPasta(){
+  try{
+    cpArray = fs.readdirSync("/home/natrammerbot/botfuckery/Natrammer/copypasta", {withFileType: false})
+    cpResult = "**Alle pasta die ik heb:**\n";
+    cpArray.forEach(item => {
+      cpResult = cpResult + item.substring(0, item.length - 4) + "\n";
+    });
+    return cpResult;
+  }
+  catch{
+    return "Ja maat ik zit te kakken op het moment. Probeer het later ajb";
   }
 }
 
@@ -169,7 +215,7 @@ function addCopypasta(args, message){
   try{
     cpname = args[0]
     message=message.slice(7 + cpname.length);
-    cpPath = `copypasta/${cpname}.txt`;
+    cpPath = `/home/natrammerbot/botfuckery/Natrammer/copypasta/${cpname}.txt`;
     fs.writeFile(cpPath, message, function (err){
       if (err) throw err;
 });
@@ -179,3 +225,21 @@ function addCopypasta(args, message){
     return "adding to database failed";
   }
 }
+
+//!nrb
+function getHelp(args){
+  try{
+    switch(args){
+      case "1":
+        return "help1";
+      break;
+      case "2":
+        return "penis";
+        break;
+      }
+      return fs.readFileSync("/home/natrammerbot/botfuckery/Natrammer/help/main.txt", {"encoding": "utf-8"});
+    }
+    catch{
+      return "Als je je eigen hulp page niet kan laden, ben je echt de lul :sad:"
+    }
+  }
