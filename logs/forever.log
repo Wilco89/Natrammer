@@ -12213,3 +12213,1223 @@ error: Script restart attempt #732
 {"message":"Logged in as: ","level":"info"}
 {"message":"NatrammerBot - (699762478632009828)","level":"info"}
 error: Forever detected script was killed by signal: SIGKILL
+error: Forever detected script was killed by signal: SIGKILL
+error: Forever detected script was killed by signal: SIGKILL
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+/home/natrammerbot/botfuckery/Natrammer/bot.js:16
+   autorun: true
+          ^
+
+SyntaxError: Unexpected token ':'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #1
+/home/natrammerbot/botfuckery/Natrammer/bot.js:16
+   autorun: true
+          ^
+
+SyntaxError: Unexpected token ':'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #2
+/home/natrammerbot/botfuckery/Natrammer/bot.js:16
+   autorun: true
+          ^
+
+SyntaxError: Unexpected token ':'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #3
+/home/natrammerbot/botfuckery/Natrammer/bot.js:16
+   autorun: true
+          ^
+
+SyntaxError: Unexpected token ':'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #4
+/home/natrammerbot/botfuckery/Natrammer/bot.js:16
+   autorun: true
+          ^
+
+SyntaxError: Unexpected token ':'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #5
+/home/natrammerbot/botfuckery/Natrammer/bot.js:16
+   autorun: true
+          ^
+
+SyntaxError: Unexpected token ':'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #6
+/home/natrammerbot/botfuckery/Natrammer/bot.js:16
+   autorun: true
+          ^
+
+SyntaxError: Unexpected token ':'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #7
+/home/natrammerbot/botfuckery/Natrammer/bot.js:16
+   autorun: true
+          ^
+
+SyntaxError: Unexpected token ':'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #8
+/home/natrammerbot/botfuckery/Natrammer/bot.js:16
+   autorun: true
+          ^
+
+SyntaxError: Unexpected token ':'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #9
+/home/natrammerbot/botfuckery/Natrammer/bot.js:16
+   autorun: true
+          ^
+
+SyntaxError: Unexpected token ':'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #10
+/home/natrammerbot/botfuckery/Natrammer/bot.js:16
+   autorun: true
+          ^
+
+SyntaxError: Unexpected token ':'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #11
+/home/natrammerbot/botfuckery/Natrammer/bot.js:16
+   autorun: true
+          ^
+
+SyntaxError: Unexpected token ':'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #12
+/home/natrammerbot/botfuckery/Natrammer/bot.js:16
+   autorun: true
+          ^
+
+SyntaxError: Unexpected token ':'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #13
+/home/natrammerbot/botfuckery/Natrammer/bot.js:16
+   autorun: true
+          ^
+
+SyntaxError: Unexpected token ':'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #14
+/home/natrammerbot/botfuckery/Natrammer/bot.js:16
+   autorun: true
+          ^
+
+SyntaxError: Unexpected token ':'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #15
+/home/natrammerbot/botfuckery/Natrammer/bot.js:16
+   autorun: true
+          ^
+
+SyntaxError: Unexpected token ':'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #16
+/home/natrammerbot/botfuckery/Natrammer/bot.js:16
+   autorun: true
+          ^
+
+SyntaxError: Unexpected token ':'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #17
+/home/natrammerbot/botfuckery/Natrammer/bot.js:16
+   autorun: true
+          ^
+
+SyntaxError: Unexpected token ':'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #18
+/home/natrammerbot/botfuckery/Natrammer/bot.js:16
+   autorun: true
+          ^
+
+SyntaxError: Unexpected token ':'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #19
+/home/natrammerbot/botfuckery/Natrammer/bot.js:16
+   autorun: true
+          ^
+
+SyntaxError: Unexpected token ':'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #20
+/home/natrammerbot/botfuckery/Natrammer/bot.js:16
+   autorun: true
+          ^
+
+SyntaxError: Unexpected token ':'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #21
+/home/natrammerbot/botfuckery/Natrammer/bot.js:16
+   autorun: true
+          ^
+
+SyntaxError: Unexpected token ':'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #22
+/home/natrammerbot/botfuckery/Natrammer/bot.js:16
+   autorun: true
+          ^
+
+SyntaxError: Unexpected token ':'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #23
+/home/natrammerbot/botfuckery/Natrammer/bot.js:16
+   autorun: true
+          ^
+
+SyntaxError: Unexpected token ':'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #24
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"undefined - (undefined)","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #1
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"undefined - (undefined)","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #2
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":" - (undefined)","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #3
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"699762478632009828 - (undefined)","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #4
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":{"id":"699762478632009828","bot":true,"username":"NatrammerBot","discriminator":"1203","avatar":null,"lastMessageChannelID":null,"verified":true,"mfaEnabled":false,"createdTimestamp":1586906775864,"defaultAvatarURL":"https://cdn.discordapp.com/embed/avatars/3.png","tag":"NatrammerBot#1203","avatarURL":null,"displayAvatarURL":"https://cdn.discordapp.com/embed/avatars/3.png"},"level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #5
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #6
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+/home/natrammerbot/botfuckery/Natrammer/bot.js:125
+       bot.sendMessage({
+           ^
+
+TypeError: bot.sendMessage is not a function
+    at Client.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:125:12)
+    at Client.emit (events.js:310:20)
+    at MessageCreateAction.handle (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/actions/MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/WebSocketManager.js:386:31)
+    at WebSocketShard.onPacket (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/WebSocketShard.js:436:22)
+    at WebSocketShard.onMessage (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/WebSocketShard.js:293:10)
+    at WebSocket.onMessage (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/node_modules/ws/lib/event-target.js:120:16)
+    at WebSocket.emit (events.js:310:20)
+    at Receiver.receiverOnMessage (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/node_modules/ws/lib/websocket.js:800:20)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #7
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #8
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+/home/natrammerbot/botfuckery/Natrammer/bot.js:126
+       bot.sendMessage({
+           ^
+
+TypeError: bot.sendMessage is not a function
+    at Client.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:126:12)
+    at Client.emit (events.js:310:20)
+    at MessageCreateAction.handle (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/actions/MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/WebSocketManager.js:386:31)
+    at WebSocketShard.onPacket (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/WebSocketShard.js:436:22)
+    at WebSocketShard.onMessage (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/WebSocketShard.js:293:10)
+    at WebSocket.onMessage (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/node_modules/ws/lib/event-target.js:120:16)
+    at WebSocket.emit (events.js:310:20)
+    at Receiver.receiverOnMessage (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/node_modules/ws/lib/websocket.js:800:20)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #9
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+/home/natrammerbot/botfuckery/Natrammer/bot.js:126
+       bot.sendMessage({
+           ^
+
+TypeError: bot.sendMessage is not a function
+    at Client.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:126:12)
+    at Client.emit (events.js:310:20)
+    at MessageCreateAction.handle (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/actions/MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/WebSocketManager.js:386:31)
+    at WebSocketShard.onPacket (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/WebSocketShard.js:436:22)
+    at WebSocketShard.onMessage (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/WebSocketShard.js:293:10)
+    at WebSocket.onMessage (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/node_modules/ws/lib/event-target.js:120:16)
+    at WebSocket.emit (events.js:310:20)
+    at Receiver.receiverOnMessage (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/node_modules/ws/lib/websocket.js:800:20)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #10
+/home/natrammerbot/botfuckery/Natrammer/bot.js:130
+       });
+        ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #11
+/home/natrammerbot/botfuckery/Natrammer/bot.js:130
+       });
+        ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #12
+/home/natrammerbot/botfuckery/Natrammer/bot.js:130
+       });
+        ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #13
+/home/natrammerbot/botfuckery/Natrammer/bot.js:130
+       });
+        ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #14
+/home/natrammerbot/botfuckery/Natrammer/bot.js:130
+       });
+        ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #15
+/home/natrammerbot/botfuckery/Natrammer/bot.js:130
+       });
+        ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #16
+/home/natrammerbot/botfuckery/Natrammer/bot.js:130
+       });
+        ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #17
+/home/natrammerbot/botfuckery/Natrammer/bot.js:130
+       });
+        ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #18
+/home/natrammerbot/botfuckery/Natrammer/bot.js:130
+       });
+        ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #19
+/home/natrammerbot/botfuckery/Natrammer/bot.js:130
+       });
+        ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #20
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+/home/natrammerbot/botfuckery/Natrammer/bot.js:126
+       message.channel.send("error");
+               ^
+
+TypeError: Cannot read property 'channel' of undefined
+    at Client.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:126:16)
+    at Client.emit (events.js:310:20)
+    at MessageCreateAction.handle (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/actions/MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/WebSocketManager.js:386:31)
+    at WebSocketShard.onPacket (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/WebSocketShard.js:436:22)
+    at WebSocketShard.onMessage (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/WebSocketShard.js:293:10)
+    at WebSocket.onMessage (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/node_modules/ws/lib/event-target.js:120:16)
+    at WebSocket.emit (events.js:310:20)
+    at Receiver.receiverOnMessage (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/node_modules/ws/lib/websocket.js:800:20)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #21
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+/home/natrammerbot/botfuckery/Natrammer/bot.js:126
+       message.channel.send("error");
+               ^
+
+TypeError: Cannot read property 'channel' of undefined
+    at Client.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:126:16)
+    at Client.emit (events.js:310:20)
+    at MessageCreateAction.handle (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/actions/MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/WebSocketManager.js:386:31)
+    at WebSocketShard.onPacket (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/WebSocketShard.js:436:22)
+    at WebSocketShard.onMessage (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/WebSocketShard.js:293:10)
+    at WebSocket.onMessage (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/node_modules/ws/lib/event-target.js:120:16)
+    at WebSocket.emit (events.js:310:20)
+    at Receiver.receiverOnMessage (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/node_modules/ws/lib/websocket.js:800:20)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #22
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #23
+/home/natrammerbot/botfuckery/Natrammer/bot.js:24
+bot.on('message', message {
+                  ^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #24
+/home/natrammerbot/botfuckery/Natrammer/bot.js:24
+bot.on('message', message {
+                  ^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #25
+/home/natrammerbot/botfuckery/Natrammer/bot.js:24
+bot.on('message', message {
+                  ^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #26
+/home/natrammerbot/botfuckery/Natrammer/bot.js:24
+bot.on('message', message {
+                  ^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #27
+/home/natrammerbot/botfuckery/Natrammer/bot.js:24
+bot.on('message', message {
+                  ^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #28
+/home/natrammerbot/botfuckery/Natrammer/bot.js:24
+bot.on('message', message {
+                  ^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #29
+/home/natrammerbot/botfuckery/Natrammer/bot.js:24
+bot.on('message', message {
+                  ^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #30
+/home/natrammerbot/botfuckery/Natrammer/bot.js:24
+bot.on('message', message) {
+                           ^
+
+SyntaxError: Unexpected token '{'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #31
+/home/natrammerbot/botfuckery/Natrammer/bot.js:24
+bot.on('message', message) {
+                           ^
+
+SyntaxError: Unexpected token '{'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #32
+/home/natrammerbot/botfuckery/Natrammer/bot.js:24
+bot.on('message', message) {
+                           ^
+
+SyntaxError: Unexpected token '{'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #33
+/home/natrammerbot/botfuckery/Natrammer/bot.js:24
+bot.on('message', message) {
+                           ^
+
+SyntaxError: Unexpected token '{'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #34
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #35
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #1
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"errorTypeError: message.toLowerCase is not a function","level":"info"}
+{"message":"errorTypeError: message.toLowerCase is not a function","level":"info"}
+{"message":"errorTypeError: message.toLowerCase is not a function","level":"info"}
+{"message":"errorTypeError: message.toLowerCase is not a function","level":"info"}
+{"message":"errorTypeError: message.toLowerCase is not a function","level":"info"}
+{"message":"errorTypeError: message.toLowerCase is not a function","level":"info"}
+{"message":"errorTypeError: message.toLowerCase is not a function","level":"info"}
+{"message":"errorTypeError: message.toLowerCase is not a function","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #2
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #1
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #2
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+/home/natrammerbot/botfuckery/Natrammer/bot.js:76
+       }
+       ^
+
+SyntaxError: Missing catch or finally after try
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #1
+/home/natrammerbot/botfuckery/Natrammer/bot.js:76
+       }
+       ^
+
+SyntaxError: Missing catch or finally after try
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #2
+/home/natrammerbot/botfuckery/Natrammer/bot.js:76
+       }
+       ^
+
+SyntaxError: Missing catch or finally after try
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #3
+/home/natrammerbot/botfuckery/Natrammer/bot.js:76
+       }
+       ^
+
+SyntaxError: Missing catch or finally after try
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #4
+/home/natrammerbot/botfuckery/Natrammer/bot.js:76
+       }
+       ^
+
+SyntaxError: Missing catch or finally after try
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #5
+/home/natrammerbot/botfuckery/Natrammer/bot.js:76
+       }
+       ^
+
+SyntaxError: Missing catch or finally after try
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #6
+/home/natrammerbot/botfuckery/Natrammer/bot.js:76
+       }
+       ^
+
+SyntaxError: Missing catch or finally after try
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #7
+/home/natrammerbot/botfuckery/Natrammer/bot.js:76
+       }
+       ^
+
+SyntaxError: Missing catch or finally after try
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #8
+/home/natrammerbot/botfuckery/Natrammer/bot.js:76
+       }
+       ^
+
+SyntaxError: Missing catch or finally after try
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #9
+/home/natrammerbot/botfuckery/Natrammer/bot.js:76
+       }
+       ^
+
+SyntaxError: Missing catch or finally after try
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #10
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #11
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #12
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #13
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+(node:5146) UnhandledPromiseRejectionWarning: Error: ENOENT: no such file or directory, stat '/misc/pepe.png'
+(node:5146) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:5146) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #14
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #15
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #16
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+(node:5919) UnhandledPromiseRejectionWarning: DiscordAPIError: Request entity too large
+    at RequestHandler.execute (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/rest/RequestHandler.js:170:25)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:5919) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:5919) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #17
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #18
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"errorReferenceError: message is not defined","level":"info"}
+{"message":"errorReferenceError: message is not defined","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #19
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"errorReferenceError: message is not defined","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #20
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"errorReferenceError: message is not defined","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #21
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":1,"level":"info"}
+{"message":2,"level":"info"}
+{"message":3,"level":"info"}
+{"message":4,"level":"info"}
+{"message":5,"level":"info"}
+{"message":6,"level":"info"}
+{"message":7,"level":"info"}
+{"message":8,"level":"info"}
+{"message":9,"level":"info"}
+{"message":10,"level":"info"}
+{"message":11,"level":"info"}
+{"message":12,"level":"info"}
+{"message":13,"level":"info"}
+{"message":14,"level":"info"}
+{"message":15,"level":"info"}
+{"message":16,"level":"info"}
+{"message":17,"level":"info"}
+{"message":18,"level":"info"}
+{"message":19,"level":"info"}
+{"message":20,"level":"info"}
+{"message":21,"level":"info"}
+{"message":22,"level":"info"}
+{"message":23,"level":"info"}
+{"message":24,"level":"info"}
+{"message":25,"level":"info"}
+{"message":26,"level":"info"}
+{"message":27,"level":"info"}
+{"message":28,"level":"info"}
+{"message":29,"level":"info"}
+{"message":30,"level":"info"}
+{"message":"errorReferenceError: message is not defined","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #22
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":1,"level":"info"}
+{"message":"errorReferenceError: message is not defined","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #23
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":1,"level":"info"}
+{"message":2,"level":"info"}
+{"message":3,"level":"info"}
+{"message":4,"level":"info"}
+{"message":5,"level":"info"}
+{"message":6,"level":"info"}
+{"message":7,"level":"info"}
+{"message":8,"level":"info"}
+{"message":9,"level":"info"}
+{"message":10,"level":"info"}
+{"message":11,"level":"info"}
+{"message":12,"level":"info"}
+{"message":13,"level":"info"}
+{"message":14,"level":"info"}
+{"message":15,"level":"info"}
+{"message":16,"level":"info"}
+{"message":17,"level":"info"}
+{"message":18,"level":"info"}
+{"message":19,"level":"info"}
+{"message":20,"level":"info"}
+{"message":21,"level":"info"}
+{"message":22,"level":"info"}
+{"message":23,"level":"info"}
+{"message":24,"level":"info"}
+{"message":25,"level":"info"}
+{"message":26,"level":"info"}
+{"message":27,"level":"info"}
+{"message":28,"level":"info"}
+{"message":29,"level":"info"}
+{"message":30,"level":"info"}
+{"message":1,"level":"info"}
+{"message":2,"level":"info"}
+{"message":3,"level":"info"}
+{"message":4,"level":"info"}
+{"message":5,"level":"info"}
+{"message":6,"level":"info"}
+{"message":7,"level":"info"}
+{"message":8,"level":"info"}
+{"message":9,"level":"info"}
+{"message":10,"level":"info"}
+{"message":11,"level":"info"}
+{"message":12,"level":"info"}
+{"message":13,"level":"info"}
+{"message":14,"level":"info"}
+{"message":15,"level":"info"}
+{"message":16,"level":"info"}
+{"message":17,"level":"info"}
+{"message":18,"level":"info"}
+{"message":19,"level":"info"}
+{"message":20,"level":"info"}
+{"message":21,"level":"info"}
+{"message":22,"level":"info"}
+{"message":23,"level":"info"}
+{"message":24,"level":"info"}
+{"message":25,"level":"info"}
+{"message":26,"level":"info"}
+{"message":27,"level":"info"}
+{"message":28,"level":"info"}
+{"message":29,"level":"info"}
+{"message":30,"level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #24
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #25
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #26
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"errorReferenceError: MessageEmbed is not defined","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #27
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #28
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #29
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #30
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}

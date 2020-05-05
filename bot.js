@@ -10,126 +10,82 @@ logger.add(new logger.transports.Console, {
 });
 logger.level = 'debug';
 // Initialize Discord Bot
-var bot = new Discord.Client({
-   token: auth.token,
-   autorun: true
-});
+const bot = new Discord.Client();
+
+bot.login(auth.token);
+
+logger.info(bot);
+
 bot.on('ready', function (evt) {
     logger.info('Connected');
     logger.info('Logged in as: ');
-    logger.info(bot.username + ' - (' + bot.id + ')');
+    logger.info(bot.user.tag);
 });
-bot.on('message', function (user, userID, channelID, message, evt) {
+bot.on('message', message => {
     try{
-      if(userID!=bot.id){
+      if (message.author.bot) return;
+
     // Our bot needs to know if it will execute a command
     // It will listen for messages that will start with `!`
-    if (message.substring(0, 1) == '!') {
-        var args = message.substring(1).split(' ');
+    if (message.content.substring(0, 1) == '!') {
+        var args = message.content.substring(1).split(' ');
         var cmd = args[0];
 
         args = args.splice(1);
         switch(cmd) {
             // !ping
             case 'ping':
-                bot.sendMessage({
-                    to: channelID,
-                    message: 'Pong!'
-                });
+                message.channel.send("Pong!");
             break;
             case 'nrb':
-                bot.sendMessage({
-                    to: channelID,
-                    message: getHelp(args[0])
-                })
+              message.channel.send(getHelp(args[0]));
             break;
             case 'P.A.L.E.N.':
-                bot.sendMessage({
-                    to: channelID,
-                    message: 'https://drive.google.com/open?id=1ZUFsj2qIsbEJQ19TXJap2LgbgvclQ61a'
-                });
+                message.channel.send('https://drive.google.com/open?id=1ZUFsj2qIsbEJQ19TXJap2LgbgvclQ61a');
             break;
             case 'F':
-                bot.sendMessage({
-                    to: channelID,
-                    message: 'F'
-                });
+              message.channel.send("F!");
             break;
             case 'cp':
-                bot.sendMessage({
-                    to: channelID,
-                    message: getCopypasta(args[0])
-                });
+              message.channel.send(getCopypasta(args[0]));
             break;
             case 'cplist':
-                bot.sendMessage({
-                    to: channelID,
-                    message: listCopyPasta()
-                });
+              message.channel.send(createCpEmbed());
             break;
             case 'addcp':
-                bot.sendMessage({
-                    to: channelID,
-                    message: addCopypasta(args, message)
-                });
+              message.channel.send(addCopypasta(args, message.content));
             break;
             case 'addresp':
-                bot.sendMessage({
-                    to: channelID,
-                    message: addResponse(args, message, user)
-                });
+              message.channel.send(addResponse(args, message.content, message.client));
             break;
             case 'remresp':
-                bot.sendMessage({
-                    to: channelID,
-                    message: removeResponse(args)
-                });
+                message.channel.send(removeResponse(args));
             break;
             case 'bee':
-              bot.sendMessage({
-                to: channelID,
-                message: "Ya like jazz? https://giphy.com/gifs/movie-bee-full-rUxSaLgjcQbLO"
-              });
-            case 'testimg': //This sucks major dingdong. Yes it does
-              try{
-                bot.uploadFile({
-                to: channelID,
-                message: "Eindig me",
-                file: "pepe.png"
-              }, error);
-            }
-              catch(error){
-                bot.sendMessage({
-                  to: channelID,
-                  message: "error is: " + error
-              });
-            }
+              beeCut().forEach(scene => message.channel.send(scene));
+              message.channel.send("I had virtually no rehearsal for that.", {files: ["./home/natrammerbot/botfuckery/Natrammer/misc/bee.gif"]});
+            break;
+            case 'testimg':
+              message.channel.send("ayy lmao", {files: ["./home/natrammerbot/botfuckery/Natrammer/misc/pepe.png"]});
             break;
             // Just add any case commands if you want to..
          }
        }
          resplist = getResponseList();
          for (resp in resplist){
-           if (message.toLowerCase().includes(resplist[resp]['name'])){
-             bot.sendMessage({
-                 to: channelID,
-                 message: resplist[resp]['text']
-               })
+           if (message.content.toLowerCase().includes(resplist[resp]['name'])){
+             message.channel.send(resplist[resp]['text']);
            }
-         }
-       }
+        }
      }
      catch(e){
-       bot.sendMessage({
-         to:channelID,
-         message: e
-       });
+       logger.info("error" + e);
      }
 });
 
 function getResponseList(){
   try{
-    responses = fs.readFileSync("/home/natrammerbot/botfuckery/Natrammer/responses.json", {"encoding": "utf-8"});	//GEWIJZIGD: absolute bestandslocatie
+    responses = fs.readFileSync("/home/natrammerbot/botfuckery/Natrammer/responses.json", {"encoding": "utf-8"});
   return JSON.parse(responses);
 }
   catch(e){
@@ -151,7 +107,7 @@ function addResponse(args, message, user){
     }
 
     bericht = message.slice(10 + respname.length);
-    new_response = JSON.parse(`{"name" : "${respname}", "text" : "${bericht}", "creator" :" ${user}"}`);
+    new_response = JSON.parse(`{"name" : "${respname}", "text" : "${bericht}", "creator" :" ${user.user}"}`);
     responseslist.push(new_response);
     fs.writeFile("/home/natrammerbot/botfuckery/Natrammer/responses.json", JSON.stringify(responseslist), function (err){
       if (err) throw err;
@@ -199,7 +155,7 @@ function getCopypasta(args){
 function listCopyPasta(){
   try{
     cpArray = fs.readdirSync("/home/natrammerbot/botfuckery/Natrammer/copypasta", {withFileType: false})
-    cpResult = "**Alle pasta die ik heb:**\n";
+    cpResult = "";
     cpArray.forEach(item => {
       cpResult = cpResult + item.substring(0, item.length - 4) + "\n";
     });
@@ -208,6 +164,19 @@ function listCopyPasta(){
   catch{
     return "Ja maat ik zit te kakken op het moment. Probeer het later ajb";
   }
+}
+
+function createCpEmbed(){
+  const cpEmbed = new Discord.MessageEmbed()
+    .setTitle('Beschikbare pasta')
+    .setColor(0xffbe30)
+    .setDescription('Een lijst met alle copypastas.')
+    .addFields(
+      { name: 'Gebruik met !cp [titel].', value: listCopyPasta() },
+    )
+    .setFooter('haha unit');
+
+    return cpEmbed;
 }
 
 //!addcp
@@ -242,4 +211,17 @@ function getHelp(args){
     catch{
       return "Als je je eigen hulp page niet kan laden, ben je echt de lul :sad:"
     }
+  }
+
+  //!bee
+  function beeCut(){
+    var beeCount = 1;
+    var beeMayhem = new Array();
+
+    while (beeCount < 31) {
+      beePath = `/home/natrammerbot/botfuckery/Natrammer/misc/bee/bee${beeCount}.txt`;
+      beeMayhem.push(fs.readFileSync(beePath, {"encoding": "utf-8"}));
+      beeCount++;
+    }
+    return beeMayhem;
   }
