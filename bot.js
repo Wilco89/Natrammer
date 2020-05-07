@@ -44,7 +44,7 @@ bot.on('message', message => {
                 message.channel.send('https://drive.google.com/open?id=1ZUFsj2qIsbEJQ19TXJap2LgbgvclQ61a');
             break;
             case 'F':
-              message.channel.send("F!");
+              message.channel.send("F");
             break;
             case 'cp':
               message.channel.send(getCopypasta(args[0]));
@@ -74,7 +74,7 @@ bot.on('message', message => {
          resplist = getResponseList();
          for (resp in resplist){
            if (message.content.toLowerCase().includes(resplist[resp]['name'])){
-             message.channel.send(resplist[resp]['text']);
+             message.channel.send(resplist[resp]['text'], {files: [resplist[resp]['img']]});
            }
         }
      }
