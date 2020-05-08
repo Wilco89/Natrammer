@@ -13433,3 +13433,2592 @@ error: Script restart attempt #30
 {"message":"Connected","level":"info"}
 {"message":"Logged in as: ","level":"info"}
 {"message":"NatrammerBot#1203","level":"info"}
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+internal/modules/cjs/loader.js:960
+  throw err;
+  ^
+
+Error: Cannot find module 'canvas'
+Require stack:
+- /home/natrammerbot/botfuckery/Natrammer/bot.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:957:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:840:27)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/natrammerbot/botfuckery/Natrammer/bot.js' ]
+}
+error: Forever detected script exited with code: 1
+error: Script restart attempt #1
+internal/modules/cjs/loader.js:960
+  throw err;
+  ^
+
+Error: Cannot find module 'canvas'
+Require stack:
+- /home/natrammerbot/botfuckery/Natrammer/bot.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:957:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:840:27)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/natrammerbot/botfuckery/Natrammer/bot.js' ]
+}
+error: Forever detected script exited with code: 1
+error: Script restart attempt #2
+internal/modules/cjs/loader.js:960
+  throw err;
+  ^
+
+Error: Cannot find module 'canvas'
+Require stack:
+- /home/natrammerbot/botfuckery/Natrammer/bot.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:957:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:840:27)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/natrammerbot/botfuckery/Natrammer/bot.js' ]
+}
+error: Forever detected script exited with code: 1
+error: Script restart attempt #3
+internal/modules/cjs/loader.js:960
+  throw err;
+  ^
+
+Error: Cannot find module 'canvas'
+Require stack:
+- /home/natrammerbot/botfuckery/Natrammer/bot.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:957:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:840:27)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/natrammerbot/botfuckery/Natrammer/bot.js' ]
+}
+error: Forever detected script exited with code: 1
+error: Script restart attempt #4
+internal/modules/cjs/loader.js:960
+  throw err;
+  ^
+
+Error: Cannot find module 'canvas'
+Require stack:
+- /home/natrammerbot/botfuckery/Natrammer/bot.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:957:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:840:27)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/natrammerbot/botfuckery/Natrammer/bot.js' ]
+}
+error: Forever detected script exited with code: 1
+error: Script restart attempt #5
+internal/modules/cjs/loader.js:960
+  throw err;
+  ^
+
+Error: Cannot find module 'canvas'
+Require stack:
+- /home/natrammerbot/botfuckery/Natrammer/bot.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:957:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:840:27)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/natrammerbot/botfuckery/Natrammer/bot.js' ]
+}
+error: Forever detected script exited with code: 1
+error: Script restart attempt #6
+internal/modules/cjs/loader.js:960
+  throw err;
+  ^
+
+Error: Cannot find module 'canvas'
+Require stack:
+- /home/natrammerbot/botfuckery/Natrammer/bot.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:957:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:840:27)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/natrammerbot/botfuckery/Natrammer/bot.js' ]
+}
+error: Forever detected script exited with code: 1
+error: Script restart attempt #7
+internal/modules/cjs/loader.js:960
+  throw err;
+  ^
+
+Error: Cannot find module 'canvas'
+Require stack:
+- /home/natrammerbot/botfuckery/Natrammer/bot.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:957:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:840:27)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/natrammerbot/botfuckery/Natrammer/bot.js' ]
+}
+error: Forever detected script exited with code: 1
+error: Script restart attempt #8
+internal/modules/cjs/loader.js:960
+  throw err;
+  ^
+
+Error: Cannot find module 'canvas'
+Require stack:
+- /home/natrammerbot/botfuckery/Natrammer/bot.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:957:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:840:27)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/natrammerbot/botfuckery/Natrammer/bot.js' ]
+}
+error: Forever detected script exited with code: 1
+error: Script restart attempt #9
+internal/modules/cjs/loader.js:960
+  throw err;
+  ^
+
+Error: Cannot find module 'canvas'
+Require stack:
+- /home/natrammerbot/botfuckery/Natrammer/bot.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:957:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:840:27)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/natrammerbot/botfuckery/Natrammer/bot.js' ]
+}
+error: Forever detected script exited with code: 1
+error: Script restart attempt #10
+internal/modules/cjs/loader.js:960
+  throw err;
+  ^
+
+Error: Cannot find module 'canvas'
+Require stack:
+- /home/natrammerbot/botfuckery/Natrammer/bot.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:957:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:840:27)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/natrammerbot/botfuckery/Natrammer/bot.js' ]
+}
+error: Forever detected script exited with code: 1
+error: Script restart attempt #11
+internal/modules/cjs/loader.js:960
+  throw err;
+  ^
+
+Error: Cannot find module 'canvas'
+Require stack:
+- /home/natrammerbot/botfuckery/Natrammer/bot.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:957:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:840:27)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/natrammerbot/botfuckery/Natrammer/bot.js' ]
+}
+error: Forever detected script exited with code: 1
+error: Script restart attempt #12
+internal/modules/cjs/loader.js:960
+  throw err;
+  ^
+
+Error: Cannot find module 'canvas'
+Require stack:
+- /home/natrammerbot/botfuckery/Natrammer/bot.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:957:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:840:27)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/natrammerbot/botfuckery/Natrammer/bot.js' ]
+}
+error: Forever detected script exited with code: 1
+error: Script restart attempt #13
+internal/modules/cjs/loader.js:960
+  throw err;
+  ^
+
+Error: Cannot find module 'canvas'
+Require stack:
+- /home/natrammerbot/botfuckery/Natrammer/bot.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:957:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:840:27)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/natrammerbot/botfuckery/Natrammer/bot.js' ]
+}
+error: Forever detected script exited with code: 1
+error: Script restart attempt #14
+internal/modules/cjs/loader.js:960
+  throw err;
+  ^
+
+Error: Cannot find module 'canvas'
+Require stack:
+- /home/natrammerbot/botfuckery/Natrammer/bot.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:957:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:840:27)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/natrammerbot/botfuckery/Natrammer/bot.js' ]
+}
+error: Forever detected script exited with code: 1
+error: Script restart attempt #15
+internal/modules/cjs/loader.js:960
+  throw err;
+  ^
+
+Error: Cannot find module 'canvas'
+Require stack:
+- /home/natrammerbot/botfuckery/Natrammer/bot.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:957:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:840:27)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/natrammerbot/botfuckery/Natrammer/bot.js' ]
+}
+error: Forever detected script exited with code: 1
+error: Script restart attempt #16
+internal/modules/cjs/loader.js:960
+  throw err;
+  ^
+
+Error: Cannot find module 'canvas'
+Require stack:
+- /home/natrammerbot/botfuckery/Natrammer/bot.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:957:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:840:27)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/natrammerbot/botfuckery/Natrammer/bot.js' ]
+}
+error: Forever detected script exited with code: 1
+error: Script restart attempt #17
+internal/modules/cjs/loader.js:960
+  throw err;
+  ^
+
+Error: Cannot find module 'canvas'
+Require stack:
+- /home/natrammerbot/botfuckery/Natrammer/bot.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:957:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:840:27)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/natrammerbot/botfuckery/Natrammer/bot.js' ]
+}
+error: Forever detected script exited with code: 1
+error: Script restart attempt #18
+internal/modules/cjs/loader.js:960
+  throw err;
+  ^
+
+Error: Cannot find module 'canvas'
+Require stack:
+- /home/natrammerbot/botfuckery/Natrammer/bot.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:957:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:840:27)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/natrammerbot/botfuckery/Natrammer/bot.js' ]
+}
+error: Forever detected script exited with code: 1
+error: Script restart attempt #19
+internal/modules/cjs/loader.js:960
+  throw err;
+  ^
+
+Error: Cannot find module 'canvas'
+Require stack:
+- /home/natrammerbot/botfuckery/Natrammer/bot.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:957:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:840:27)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/natrammerbot/botfuckery/Natrammer/bot.js' ]
+}
+error: Forever detected script exited with code: 1
+error: Script restart attempt #20
+internal/modules/cjs/loader.js:960
+  throw err;
+  ^
+
+Error: Cannot find module 'canvas'
+Require stack:
+- /home/natrammerbot/botfuckery/Natrammer/bot.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:957:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:840:27)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/natrammerbot/botfuckery/Natrammer/bot.js' ]
+}
+error: Forever detected script exited with code: 1
+error: Script restart attempt #21
+internal/modules/cjs/loader.js:960
+  throw err;
+  ^
+
+Error: Cannot find module 'canvas'
+Require stack:
+- /home/natrammerbot/botfuckery/Natrammer/bot.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:957:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:840:27)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/natrammerbot/botfuckery/Natrammer/bot.js' ]
+}
+error: Forever detected script exited with code: 1
+error: Script restart attempt #22
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #23
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+(node:29310) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'pipe' of undefined
+    at Function.resolveFile (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/structures/APIMessage.js:283:23)
+    at /home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/structures/APIMessage.js:224:72
+    at Array.map (<anonymous>)
+    at APIMessage.resolveFiles (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/structures/APIMessage.js:224:46)
+    at TextChannel.send (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/structures/interfaces/TextBasedChannel.js:172:46)
+    at Client.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:77:30)
+    at Client.emit (events.js:310:20)
+    at MessageCreateAction.handle (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/actions/MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/WebSocketManager.js:386:31)
+(node:29310) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 2)
+(node:29310) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:29310) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'pipe' of undefined
+    at Function.resolveFile (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/structures/APIMessage.js:283:23)
+    at /home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/structures/APIMessage.js:224:72
+    at Array.map (<anonymous>)
+    at APIMessage.resolveFiles (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/structures/APIMessage.js:224:46)
+    at TextChannel.send (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/structures/interfaces/TextBasedChannel.js:172:46)
+    at Client.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:77:30)
+    at Client.emit (events.js:310:20)
+    at MessageCreateAction.handle (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/actions/MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/WebSocketManager.js:386:31)
+(node:29310) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 4)
+(node:29310) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'pipe' of undefined
+    at Function.resolveFile (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/structures/APIMessage.js:283:23)
+    at /home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/structures/APIMessage.js:224:72
+    at Array.map (<anonymous>)
+    at APIMessage.resolveFiles (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/structures/APIMessage.js:224:46)
+    at TextChannel.send (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/structures/interfaces/TextBasedChannel.js:172:46)
+    at Client.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:77:30)
+    at Client.emit (events.js:310:20)
+    at MessageCreateAction.handle (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/actions/MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/WebSocketManager.js:386:31)
+(node:29310) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 6)
+(node:29310) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'pipe' of undefined
+    at Function.resolveFile (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/structures/APIMessage.js:283:23)
+    at /home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/structures/APIMessage.js:224:72
+    at Array.map (<anonymous>)
+    at APIMessage.resolveFiles (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/structures/APIMessage.js:224:46)
+    at TextChannel.send (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/structures/interfaces/TextBasedChannel.js:172:46)
+    at Client.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:77:30)
+    at Client.emit (events.js:310:20)
+    at MessageCreateAction.handle (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/actions/MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/WebSocketManager.js:386:31)
+(node:29310) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 8)
+(node:29310) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'pipe' of undefined
+    at Function.resolveFile (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/structures/APIMessage.js:283:23)
+    at /home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/structures/APIMessage.js:224:72
+    at Array.map (<anonymous>)
+    at APIMessage.resolveFiles (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/structures/APIMessage.js:224:46)
+    at TextChannel.send (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/structures/interfaces/TextBasedChannel.js:172:46)
+    at Client.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:77:30)
+    at Client.emit (events.js:310:20)
+    at MessageCreateAction.handle (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/actions/MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/WebSocketManager.js:386:31)
+(node:29310) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 10)
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #24
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+(node:31240) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'pipe' of undefined
+    at Function.resolveFile (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/structures/APIMessage.js:283:23)
+    at /home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/structures/APIMessage.js:224:72
+    at Array.map (<anonymous>)
+    at APIMessage.resolveFiles (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/structures/APIMessage.js:224:46)
+    at TextChannel.send (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/structures/interfaces/TextBasedChannel.js:172:46)
+    at Client.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:77:30)
+    at Client.emit (events.js:310:20)
+    at MessageCreateAction.handle (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/actions/MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/WebSocketManager.js:386:31)
+(node:31240) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 2)
+(node:31240) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:31240) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'pipe' of undefined
+    at Function.resolveFile (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/structures/APIMessage.js:283:23)
+    at /home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/structures/APIMessage.js:224:72
+    at Array.map (<anonymous>)
+    at APIMessage.resolveFiles (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/structures/APIMessage.js:224:46)
+    at TextChannel.send (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/structures/interfaces/TextBasedChannel.js:172:46)
+    at Client.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:77:30)
+    at Client.emit (events.js:310:20)
+    at MessageCreateAction.handle (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/actions/MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/WebSocketManager.js:386:31)
+(node:31240) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 4)
+(node:31240) UnhandledPromiseRejectionWarning: Error [FILE_NOT_FOUND]: File could not be found: /
+    at /home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/util/DataResolver.js:102:48
+    at FSReqCallback.oncomplete (fs.js:168:5)
+(node:31240) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 5)
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #25
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #26
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":null,"level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #27
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":null,"level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #28
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":null,"level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #29
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"peepeepeepee","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #30
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"level":"info"}
+{"message":"peepeepeepee","level":"info"}
+{"message":{"name":"peepeepeepee","text":"poooooooooooooooooooo","creator":" <@699762478632009828>"},"level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #31
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"peepeepeepee\n","level":"info"}
+{"message":"[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]\n","level":"info"}
+{"message":"[object Object]\n","level":"info"}
+{"message":"[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]\n","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #32
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #33
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"daan","level":"info"}
+{"message":[{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"daan","text":"hee ik ken ook een daan! zou het dezelfde zijn?","creator":" Larovaria"},{"name":"shit","text":"niet zo schelden","creator":" Larovaria"},{"name":"jackbox","text":"mag ik ook meespelen met jackbox?","creator":" Larovaria"},{"name":"unit","text":"hee dat zegt daan altijd. ben jij toevallig daan?","creator":" Larovaria"},{"name":"joe","text":"joe mama","creator":" Larovaria"},{"name":"menno","text":"mensen die menno heten zijn altijd geweldig","creator":" Larovaria"},{"name":"furry","text":"Hier mogen we het niet over hebben","creator":" thann"},{"name":"furries","text":"We praten niet over het verboden soort","creator":" thann"},{"name":"ligma","text":"balls","creator":" thann"},{"name":"ket","text":"a ket is a feline animal dat hunts for mice and birbs and has a very sensitive nose *snif snif*","creator":" Larovaria"},{"name":"boomer","text":"In mijn tijd hadden we nog respect voor volwassenen","creator":" thann"},{"name":"overnemen","text":"nee dat zouden we nooit doen, robots zijn heel lief *gunshot*","creator":" Larovaria"},{"name":"[keyword]","text":"[response]","creator":" Larovaria"},{"name":"of","text":"ja","creator":" Larovaria"},{"name":"HAHAHAHAHA","text":"OET OET OET PALEN TOT M'N ANUS BLOEDT","creator":" Larovaria"},{"name":"palen","text":"HAHAHAHAHA OET OET OET PALEN TOT M'N ANUS BLOEDT","creator":" Larovaria"},{"name":"haha","text":"HAHAHAHAHA","creator":" thann"},{"name":"lol","text":"*blaast lucht uit neus*","creator":" Larovaria"},{"name":"test123","text":"4567890","creator":" thann"},{"name":"bot","text":"Huh? Zei iemand iets?","img":"","creator":" thann"},{"name":"dewit","text":"https://tenor.com/view/palpatine-dewit-gif-11426456","creator":" Larovaria"},{"name":"nice","text":"https://tenor.com/view/noice-nice-click-gif-8843762","creator":" Larovaria"},{"name":"123","text":"456","creator":" thann"},{"name":"wellicht","text":"nietdonker","creator":" thann"},{"name":"hallo","text":"Hallo?","creator":" <@699762478632009828>"}],"level":"info"}
+{"message":{"name":"daan","text":"hee ik ken ook een daan! zou het dezelfde zijn?","creator":" Larovaria"},"level":"info"}
+{"message":[{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"daan","text":"hee ik ken ook een daan! zou het dezelfde zijn?","creator":" Larovaria"},{"name":"shit","text":"niet zo schelden","creator":" Larovaria"},{"name":"jackbox","text":"mag ik ook meespelen met jackbox?","creator":" Larovaria"},{"name":"unit","text":"hee dat zegt daan altijd. ben jij toevallig daan?","creator":" Larovaria"},{"name":"joe","text":"joe mama","creator":" Larovaria"},{"name":"menno","text":"mensen die menno heten zijn altijd geweldig","creator":" Larovaria"},{"name":"furry","text":"Hier mogen we het niet over hebben","creator":" thann"},{"name":"furries","text":"We praten niet over het verboden soort","creator":" thann"},{"name":"ligma","text":"balls","creator":" thann"},{"name":"ket","text":"a ket is a feline animal dat hunts for mice and birbs and has a very sensitive nose *snif snif*","creator":" Larovaria"},{"name":"boomer","text":"In mijn tijd hadden we nog respect voor volwassenen","creator":" thann"},{"name":"overnemen","text":"nee dat zouden we nooit doen, robots zijn heel lief *gunshot*","creator":" Larovaria"},{"name":"[keyword]","text":"[response]","creator":" Larovaria"},{"name":"of","text":"ja","creator":" Larovaria"},{"name":"HAHAHAHAHA","text":"OET OET OET PALEN TOT M'N ANUS BLOEDT","creator":" Larovaria"},{"name":"palen","text":"HAHAHAHAHA OET OET OET PALEN TOT M'N ANUS BLOEDT","creator":" Larovaria"},{"name":"haha","text":"HAHAHAHAHA","creator":" thann"},{"name":"lol","text":"*blaast lucht uit neus*","creator":" Larovaria"},{"name":"test123","text":"4567890","creator":" thann"},{"name":"bot","text":"Huh? Zei iemand iets?","img":"","creator":" thann"},{"name":"dewit","text":"https://tenor.com/view/palpatine-dewit-gif-11426456","creator":" Larovaria"},{"name":"nice","text":"https://tenor.com/view/noice-nice-click-gif-8843762","creator":" Larovaria"},{"name":"123","text":"456","creator":" thann"},{"name":"wellicht","text":"nietdonker","creator":" thann"}],"level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #34
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"peepeepeepee","level":"info"}
+{"message":[{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"daan","text":"hee ik ken ook een daan! zou het dezelfde zijn?","creator":" Larovaria"},{"name":"shit","text":"niet zo schelden","creator":" Larovaria"},{"name":"jackbox","text":"mag ik ook meespelen met jackbox?","creator":" Larovaria"},{"name":"unit","text":"hee dat zegt daan altijd. ben jij toevallig daan?","creator":" Larovaria"},{"name":"joe","text":"joe mama","creator":" Larovaria"},{"name":"menno","text":"mensen die menno heten zijn altijd geweldig","creator":" Larovaria"},{"name":"furry","text":"Hier mogen we het niet over hebben","creator":" thann"},{"name":"furries","text":"We praten niet over het verboden soort","creator":" thann"},{"name":"ligma","text":"balls","creator":" thann"},{"name":"ket","text":"a ket is a feline animal dat hunts for mice and birbs and has a very sensitive nose *snif snif*","creator":" Larovaria"},{"name":"boomer","text":"In mijn tijd hadden we nog respect voor volwassenen","creator":" thann"},{"name":"overnemen","text":"nee dat zouden we nooit doen, robots zijn heel lief *gunshot*","creator":" Larovaria"},{"name":"[keyword]","text":"[response]","creator":" Larovaria"},{"name":"of","text":"ja","creator":" Larovaria"},{"name":"HAHAHAHAHA","text":"OET OET OET PALEN TOT M'N ANUS BLOEDT","creator":" Larovaria"},{"name":"palen","text":"HAHAHAHAHA OET OET OET PALEN TOT M'N ANUS BLOEDT","creator":" Larovaria"},{"name":"haha","text":"HAHAHAHAHA","creator":" thann"},{"name":"lol","text":"*blaast lucht uit neus*","creator":" Larovaria"},{"name":"test123","text":"4567890","creator":" thann"},{"name":"bot","text":"Huh? Zei iemand iets?","img":"","creator":" thann"},{"name":"dewit","text":"https://tenor.com/view/palpatine-dewit-gif-11426456","creator":" Larovaria"},{"name":"nice","text":"https://tenor.com/view/noice-nice-click-gif-8843762","creator":" Larovaria"},{"name":"123","text":"456","creator":" thann"},{"name":"wellicht","text":"nietdonker","creator":" thann"}],"level":"info"}
+{"message":"daan","level":"info"}
+{"message":[{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"daan","text":"hee ik ken ook een daan! zou het dezelfde zijn?","creator":" Larovaria"},{"name":"shit","text":"niet zo schelden","creator":" Larovaria"},{"name":"jackbox","text":"mag ik ook meespelen met jackbox?","creator":" Larovaria"},{"name":"unit","text":"hee dat zegt daan altijd. ben jij toevallig daan?","creator":" Larovaria"},{"name":"joe","text":"joe mama","creator":" Larovaria"},{"name":"menno","text":"mensen die menno heten zijn altijd geweldig","creator":" Larovaria"},{"name":"furry","text":"Hier mogen we het niet over hebben","creator":" thann"},{"name":"furries","text":"We praten niet over het verboden soort","creator":" thann"},{"name":"ligma","text":"balls","creator":" thann"},{"name":"ket","text":"a ket is a feline animal dat hunts for mice and birbs and has a very sensitive nose *snif snif*","creator":" Larovaria"},{"name":"boomer","text":"In mijn tijd hadden we nog respect voor volwassenen","creator":" thann"},{"name":"overnemen","text":"nee dat zouden we nooit doen, robots zijn heel lief *gunshot*","creator":" Larovaria"},{"name":"[keyword]","text":"[response]","creator":" Larovaria"},{"name":"of","text":"ja","creator":" Larovaria"},{"name":"HAHAHAHAHA","text":"OET OET OET PALEN TOT M'N ANUS BLOEDT","creator":" Larovaria"},{"name":"palen","text":"HAHAHAHAHA OET OET OET PALEN TOT M'N ANUS BLOEDT","creator":" Larovaria"},{"name":"haha","text":"HAHAHAHAHA","creator":" thann"},{"name":"lol","text":"*blaast lucht uit neus*","creator":" Larovaria"},{"name":"test123","text":"4567890","creator":" thann"},{"name":"bot","text":"Huh? Zei iemand iets?","img":"","creator":" thann"},{"name":"dewit","text":"https://tenor.com/view/palpatine-dewit-gif-11426456","creator":" Larovaria"},{"name":"nice","text":"https://tenor.com/view/noice-nice-click-gif-8843762","creator":" Larovaria"},{"name":"123","text":"456","creator":" thann"},{"name":"wellicht","text":"nietdonker","creator":" thann"}],"level":"info"}
+{"message":{"name":"daan","text":"hee ik ken ook een daan! zou het dezelfde zijn?","creator":" Larovaria"},"level":"info"}
+{"message":[],"level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"thicc","level":"info"}
+{"message":[{"name":"daan","text":"heey bedoel je soms <@!366912522638589953>","creator":" <@699762478632009828>"},{"name":"thicc","text":"ur mom is thicc","creator":" <@699762478632009828>"}],"level":"info"}
+{"message":{"name":"thicc","text":"ur mom is thicc","creator":" <@699762478632009828>"},"level":"info"}
+{"message":[],"level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"1","level":"info"}
+{"message":[{"name":"1","text":"","creator":" <@699762478632009828>"}],"level":"info"}
+{"message":{"name":"1","text":"","creator":" <@699762478632009828>"},"level":"info"}
+{"message":[],"level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"2","level":"info"}
+{"message":[{"name":"1","text":"a","creator":" <@699762478632009828>"},{"name":"2","text":"b","creator":" <@699762478632009828>"},{"name":"3","text":"c","creator":" <@699762478632009828>"}],"level":"info"}
+{"message":{"name":"2","text":"b","creator":" <@699762478632009828>"},"level":"info"}
+{"message":[],"level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"1","level":"info"}
+{"message":[{"name":"1","text":"","creator":" <@699762478632009828>"},{"name":"2","text":"","creator":" <@699762478632009828>"},{"name":"3","text":"","creator":" <@699762478632009828>"}],"level":"info"}
+{"message":{"name":"1","text":"","creator":" <@699762478632009828>"},"level":"info"}
+{"message":[],"level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #35
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"daan","level":"info"}
+{"message":[{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"daan","text":"hee ik ken ook een daan! zou het dezelfde zijn?","creator":" Larovaria"},{"name":"shit","text":"niet zo schelden","creator":" Larovaria"},{"name":"jackbox","text":"mag ik ook meespelen met jackbox?","creator":" Larovaria"},{"name":"unit","text":"hee dat zegt daan altijd. ben jij toevallig daan?","creator":" Larovaria"},{"name":"joe","text":"joe mama","creator":" Larovaria"},{"name":"menno","text":"mensen die menno heten zijn altijd geweldig","creator":" Larovaria"},{"name":"furry","text":"Hier mogen we het niet over hebben","creator":" thann"},{"name":"furries","text":"We praten niet over het verboden soort","creator":" thann"},{"name":"ligma","text":"balls","creator":" thann"},{"name":"ket","text":"a ket is a feline animal dat hunts for mice and birbs and has a very sensitive nose *snif snif*","creator":" Larovaria"},{"name":"boomer","text":"In mijn tijd hadden we nog respect voor volwassenen","creator":" thann"},{"name":"overnemen","text":"nee dat zouden we nooit doen, robots zijn heel lief *gunshot*","creator":" Larovaria"},{"name":"[keyword]","text":"[response]","creator":" Larovaria"},{"name":"of","text":"ja","creator":" Larovaria"},{"name":"HAHAHAHAHA","text":"OET OET OET PALEN TOT M'N ANUS BLOEDT","creator":" Larovaria"},{"name":"palen","text":"HAHAHAHAHA OET OET OET PALEN TOT M'N ANUS BLOEDT","creator":" Larovaria"},{"name":"haha","text":"HAHAHAHAHA","creator":" thann"},{"name":"lol","text":"*blaast lucht uit neus*","creator":" Larovaria"},{"name":"test123","text":"4567890","creator":" thann"},{"name":"bot","text":"Huh? Zei iemand iets?","creator":" thann"},{"name":"dewit","text":"https://tenor.com/view/palpatine-dewit-gif-11426456","creator":" Larovaria"},{"name":"nice","text":"https://tenor.com/view/noice-nice-click-gif-8843762","creator":" Larovaria"},{"name":"123","text":"456","creator":" thann"},{"name":"wellicht","text":"nietdonker","creator":" thann"},{"name":"hallo","text":"Hallo?","creator":" <@699762478632009828>"},{"name":"henlo","text":"HONK","img":"/home/natrammerbot/botfuckery/Natrammer/misc/goose.jpg","creator":" thann"}],"level":"info"}
+{"message":{"name":"daan","text":"hee ik ken ook een daan! zou het dezelfde zijn?","creator":" Larovaria"},"level":"info"}
+{"level":"info","message":"error: responseslist.delete is not a function","stack":"TypeError: responseslist.delete is not a function\n    at removeResponse (/home/natrammerbot/botfuckery/Natrammer/bot.js:134:29)\n    at Client.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:62:38)\n    at Client.emit (events.js:310:20)\n    at MessageCreateAction.handle (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/actions/MessageCreate.js:31:14)\n    at Object.module.exports [as MESSAGE_CREATE] (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)\n    at WebSocketManager.handlePacket (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/WebSocketManager.js:386:31)\n    at WebSocketShard.onPacket (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/WebSocketShard.js:436:22)\n    at WebSocketShard.onMessage (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/WebSocketShard.js:293:10)\n    at WebSocket.onMessage (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/node_modules/ws/lib/event-target.js:120:16)\n    at WebSocket.emit (events.js:310:20)"}
+(node:5834) UnhandledPromiseRejectionWarning: DiscordAPIError: Cannot send an empty message
+    at RequestHandler.execute (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/rest/RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:5834) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:5834) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #36
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"daan","level":"info"}
+{"message":[{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"daan","text":"hee ik ken ook een daan! zou het dezelfde zijn?","creator":" Larovaria"},{"name":"shit","text":"niet zo schelden","creator":" Larovaria"},{"name":"jackbox","text":"mag ik ook meespelen met jackbox?","creator":" Larovaria"},{"name":"unit","text":"hee dat zegt daan altijd. ben jij toevallig daan?","creator":" Larovaria"},{"name":"joe","text":"joe mama","creator":" Larovaria"},{"name":"menno","text":"mensen die menno heten zijn altijd geweldig","creator":" Larovaria"},{"name":"furry","text":"Hier mogen we het niet over hebben","creator":" thann"},{"name":"furries","text":"We praten niet over het verboden soort","creator":" thann"},{"name":"ligma","text":"balls","creator":" thann"},{"name":"ket","text":"a ket is a feline animal dat hunts for mice and birbs and has a very sensitive nose *snif snif*","creator":" Larovaria"},{"name":"boomer","text":"In mijn tijd hadden we nog respect voor volwassenen","creator":" thann"},{"name":"overnemen","text":"nee dat zouden we nooit doen, robots zijn heel lief *gunshot*","creator":" Larovaria"},{"name":"[keyword]","text":"[response]","creator":" Larovaria"},{"name":"of","text":"ja","creator":" Larovaria"},{"name":"HAHAHAHAHA","text":"OET OET OET PALEN TOT M'N ANUS BLOEDT","creator":" Larovaria"},{"name":"palen","text":"HAHAHAHAHA OET OET OET PALEN TOT M'N ANUS BLOEDT","creator":" Larovaria"},{"name":"haha","text":"HAHAHAHAHA","creator":" thann"},{"name":"lol","text":"*blaast lucht uit neus*","creator":" Larovaria"},{"name":"test123","text":"4567890","creator":" thann"},{"name":"bot","text":"Huh? Zei iemand iets?","creator":" thann"},{"name":"dewit","text":"https://tenor.com/view/palpatine-dewit-gif-11426456","creator":" Larovaria"},{"name":"nice","text":"https://tenor.com/view/noice-nice-click-gif-8843762","creator":" Larovaria"},{"name":"123","text":"456","creator":" thann"},{"name":"wellicht","text":"nietdonker","creator":" thann"},{"name":"hallo","text":"Hallo?","creator":" <@699762478632009828>"},{"name":"henlo","text":"HONK","img":"/home/natrammerbot/botfuckery/Natrammer/misc/goose.jpg","creator":" thann"}],"level":"info"}
+{"message":{"name":"daan","text":"hee ik ken ook een daan! zou het dezelfde zijn?","creator":" Larovaria"},"level":"info"}
+{"level":"info","message":"error: #<Object> is not a function","stack":"TypeError: #<Object> is not a function\n    at Array.filter (<anonymous>)\n    at removeResponse (/home/natrammerbot/botfuckery/Natrammer/bot.js:134:23)\n    at Client.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:62:38)\n    at Client.emit (events.js:310:20)\n    at MessageCreateAction.handle (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/actions/MessageCreate.js:31:14)\n    at Object.module.exports [as MESSAGE_CREATE] (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)\n    at WebSocketManager.handlePacket (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/WebSocketManager.js:386:31)\n    at WebSocketShard.onPacket (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/WebSocketShard.js:436:22)\n    at WebSocketShard.onMessage (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/WebSocketShard.js:293:10)\n    at WebSocket.onMessage (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/node_modules/ws/lib/event-target.js:120:16)"}
+(node:5977) UnhandledPromiseRejectionWarning: DiscordAPIError: Cannot send an empty message
+    at RequestHandler.execute (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/rest/RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:5977) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:5977) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #37
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"daan","level":"info"}
+{"message":[{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"daan","text":"hee ik ken ook een daan! zou het dezelfde zijn?","creator":" Larovaria"},{"name":"shit","text":"niet zo schelden","creator":" Larovaria"},{"name":"jackbox","text":"mag ik ook meespelen met jackbox?","creator":" Larovaria"},{"name":"unit","text":"hee dat zegt daan altijd. ben jij toevallig daan?","creator":" Larovaria"},{"name":"joe","text":"joe mama","creator":" Larovaria"},{"name":"menno","text":"mensen die menno heten zijn altijd geweldig","creator":" Larovaria"},{"name":"furry","text":"Hier mogen we het niet over hebben","creator":" thann"},{"name":"furries","text":"We praten niet over het verboden soort","creator":" thann"},{"name":"ligma","text":"balls","creator":" thann"},{"name":"ket","text":"a ket is a feline animal dat hunts for mice and birbs and has a very sensitive nose *snif snif*","creator":" Larovaria"},{"name":"boomer","text":"In mijn tijd hadden we nog respect voor volwassenen","creator":" thann"},{"name":"overnemen","text":"nee dat zouden we nooit doen, robots zijn heel lief *gunshot*","creator":" Larovaria"},{"name":"[keyword]","text":"[response]","creator":" Larovaria"},{"name":"of","text":"ja","creator":" Larovaria"},{"name":"HAHAHAHAHA","text":"OET OET OET PALEN TOT M'N ANUS BLOEDT","creator":" Larovaria"},{"name":"palen","text":"HAHAHAHAHA OET OET OET PALEN TOT M'N ANUS BLOEDT","creator":" Larovaria"},{"name":"haha","text":"HAHAHAHAHA","creator":" thann"},{"name":"lol","text":"*blaast lucht uit neus*","creator":" Larovaria"},{"name":"test123","text":"4567890","creator":" thann"},{"name":"bot","text":"Huh? Zei iemand iets?","creator":" thann"},{"name":"dewit","text":"https://tenor.com/view/palpatine-dewit-gif-11426456","creator":" Larovaria"},{"name":"nice","text":"https://tenor.com/view/noice-nice-click-gif-8843762","creator":" Larovaria"},{"name":"123","text":"456","creator":" thann"},{"name":"wellicht","text":"nietdonker","creator":" thann"},{"name":"hallo","text":"Hallo?","creator":" <@699762478632009828>"},{"name":"henlo","text":"HONK","img":"/home/natrammerbot/botfuckery/Natrammer/misc/goose.jpg","creator":" thann"}],"level":"info"}
+{"message":{"name":"daan","text":"hee ik ken ook een daan! zou het dezelfde zijn?","creator":" Larovaria"},"level":"info"}
+{"message":[{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"daan","text":"hee ik ken ook een daan! zou het dezelfde zijn?","creator":" Larovaria"},{"name":"shit","text":"niet zo schelden","creator":" Larovaria"},{"name":"jackbox","text":"mag ik ook meespelen met jackbox?","creator":" Larovaria"},{"name":"unit","text":"hee dat zegt daan altijd. ben jij toevallig daan?","creator":" Larovaria"},{"name":"joe","text":"joe mama","creator":" Larovaria"},{"name":"menno","text":"mensen die menno heten zijn altijd geweldig","creator":" Larovaria"},{"name":"furry","text":"Hier mogen we het niet over hebben","creator":" thann"},{"name":"furries","text":"We praten niet over het verboden soort","creator":" thann"},{"name":"ligma","text":"balls","creator":" thann"},{"name":"ket","text":"a ket is a feline animal dat hunts for mice and birbs and has a very sensitive nose *snif snif*","creator":" Larovaria"},{"name":"boomer","text":"In mijn tijd hadden we nog respect voor volwassenen","creator":" thann"},{"name":"overnemen","text":"nee dat zouden we nooit doen, robots zijn heel lief *gunshot*","creator":" Larovaria"},{"name":"[keyword]","text":"[response]","creator":" Larovaria"},{"name":"of","text":"ja","creator":" Larovaria"},{"name":"HAHAHAHAHA","text":"OET OET OET PALEN TOT M'N ANUS BLOEDT","creator":" Larovaria"},{"name":"palen","text":"HAHAHAHAHA OET OET OET PALEN TOT M'N ANUS BLOEDT","creator":" Larovaria"},{"name":"haha","text":"HAHAHAHAHA","creator":" thann"},{"name":"lol","text":"*blaast lucht uit neus*","creator":" Larovaria"},{"name":"test123","text":"4567890","creator":" thann"},{"name":"bot","text":"Huh? Zei iemand iets?","creator":" thann"},{"name":"dewit","text":"https://tenor.com/view/palpatine-dewit-gif-11426456","creator":" Larovaria"},{"name":"nice","text":"https://tenor.com/view/noice-nice-click-gif-8843762","creator":" Larovaria"},{"name":"123","text":"456","creator":" thann"},{"name":"wellicht","text":"nietdonker","creator":" thann"},{"name":"hallo","text":"Hallo?","creator":" <@699762478632009828>"},{"name":"henlo","text":"HONK","img":"/home/natrammerbot/botfuckery/Natrammer/misc/goose.jpg","creator":" thann"}],"level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #38
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"daan","level":"info"}
+{"message":[{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"daan","text":"hee ik ken ook een daan! zou het dezelfde zijn?","creator":" Larovaria"},{"name":"shit","text":"niet zo schelden","creator":" Larovaria"},{"name":"jackbox","text":"mag ik ook meespelen met jackbox?","creator":" Larovaria"},{"name":"unit","text":"hee dat zegt daan altijd. ben jij toevallig daan?","creator":" Larovaria"},{"name":"joe","text":"joe mama","creator":" Larovaria"},{"name":"menno","text":"mensen die menno heten zijn altijd geweldig","creator":" Larovaria"},{"name":"furry","text":"Hier mogen we het niet over hebben","creator":" thann"},{"name":"furries","text":"We praten niet over het verboden soort","creator":" thann"},{"name":"ligma","text":"balls","creator":" thann"},{"name":"ket","text":"a ket is a feline animal dat hunts for mice and birbs and has a very sensitive nose *snif snif*","creator":" Larovaria"},{"name":"boomer","text":"In mijn tijd hadden we nog respect voor volwassenen","creator":" thann"},{"name":"overnemen","text":"nee dat zouden we nooit doen, robots zijn heel lief *gunshot*","creator":" Larovaria"},{"name":"[keyword]","text":"[response]","creator":" Larovaria"},{"name":"of","text":"ja","creator":" Larovaria"},{"name":"HAHAHAHAHA","text":"OET OET OET PALEN TOT M'N ANUS BLOEDT","creator":" Larovaria"},{"name":"palen","text":"HAHAHAHAHA OET OET OET PALEN TOT M'N ANUS BLOEDT","creator":" Larovaria"},{"name":"haha","text":"HAHAHAHAHA","creator":" thann"},{"name":"lol","text":"*blaast lucht uit neus*","creator":" Larovaria"},{"name":"test123","text":"4567890","creator":" thann"},{"name":"bot","text":"Huh? Zei iemand iets?","creator":" thann"},{"name":"dewit","text":"https://tenor.com/view/palpatine-dewit-gif-11426456","creator":" Larovaria"},{"name":"nice","text":"https://tenor.com/view/noice-nice-click-gif-8843762","creator":" Larovaria"},{"name":"123","text":"456","creator":" thann"},{"name":"wellicht","text":"nietdonker","creator":" thann"},{"name":"hallo","text":"Hallo?","creator":" <@699762478632009828>"},{"name":"henlo","text":"HONK","img":"/home/natrammerbot/botfuckery/Natrammer/misc/goose.jpg","creator":" thann"}],"level":"info"}
+{"message":{"name":"daan","text":"hee ik ken ook een daan! zou het dezelfde zijn?","creator":" Larovaria"},"level":"info"}
+{"message":[{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"poep","text":"he bah","creator":" Larovaria"},{"name":"daan","text":"hee ik ken ook een daan! zou het dezelfde zijn?","creator":" Larovaria"},{"name":"shit","text":"niet zo schelden","creator":" Larovaria"},{"name":"jackbox","text":"mag ik ook meespelen met jackbox?","creator":" Larovaria"},{"name":"unit","text":"hee dat zegt daan altijd. ben jij toevallig daan?","creator":" Larovaria"},{"name":"joe","text":"joe mama","creator":" Larovaria"},{"name":"menno","text":"mensen die menno heten zijn altijd geweldig","creator":" Larovaria"},{"name":"furry","text":"Hier mogen we het niet over hebben","creator":" thann"},{"name":"furries","text":"We praten niet over het verboden soort","creator":" thann"},{"name":"ligma","text":"balls","creator":" thann"},{"name":"ket","text":"a ket is a feline animal dat hunts for mice and birbs and has a very sensitive nose *snif snif*","creator":" Larovaria"},{"name":"boomer","text":"In mijn tijd hadden we nog respect voor volwassenen","creator":" thann"},{"name":"overnemen","text":"nee dat zouden we nooit doen, robots zijn heel lief *gunshot*","creator":" Larovaria"},{"name":"[keyword]","text":"[response]","creator":" Larovaria"},{"name":"of","text":"ja","creator":" Larovaria"},{"name":"HAHAHAHAHA","text":"OET OET OET PALEN TOT M'N ANUS BLOEDT","creator":" Larovaria"},{"name":"palen","text":"HAHAHAHAHA OET OET OET PALEN TOT M'N ANUS BLOEDT","creator":" Larovaria"},{"name":"haha","text":"HAHAHAHAHA","creator":" thann"},{"name":"lol","text":"*blaast lucht uit neus*","creator":" Larovaria"},{"name":"test123","text":"4567890","creator":" thann"},{"name":"bot","text":"Huh? Zei iemand iets?","creator":" thann"},{"name":"dewit","text":"https://tenor.com/view/palpatine-dewit-gif-11426456","creator":" Larovaria"},{"name":"nice","text":"https://tenor.com/view/noice-nice-click-gif-8843762","creator":" Larovaria"},{"name":"123","text":"456","creator":" thann"},{"name":"wellicht","text":"nietdonker","creator":" thann"},{"name":"hallo","text":"Hallo?","creator":" <@699762478632009828>"},{"name":"henlo","text":"HONK","img":"/home/natrammerbot/botfuckery/Natrammer/misc/goose.jpg","creator":" thann"}],"level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #39
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #40
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #41
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #42
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":{"name":"daan","text":"hee ik ken ook een daan! zou het dezelfde zijn?","creator":" Larovaria"},"level":"info"}
+{"message":[{"name":"daan","text":"hee ik ken ook een daan! zou het dezelfde zijn?","creator":" Larovaria"}],"level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":{"name":"daan","text":"hee ik ken ook een daan! zou het dezelfde zijn?","creator":" Larovaria"},"level":"info"}
+{"message":[{"name":"daan","text":"hee ik ken ook een daan! zou het dezelfde zijn?","creator":" Larovaria"}],"level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #43
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":{"name":"daan","text":"hee ik ken ook een daan! zou het dezelfde zijn?","creator":" Larovaria"},"level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #44
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":{"name":"daan","text":"hee ik ken ook een daan! zou het dezelfde zijn?","creator":" Larovaria"},"level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #45
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #46
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"errorReferenceError: fail is not defined","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #47
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #48
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+error: Forever detected script exited with code: 0
+error: Script restart attempt #49
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+error: Forever detected script exited with code: 0
+error: Script restart attempt #50
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+error: Forever detected script exited with code: 0
+error: Script restart attempt #51
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+error: Forever detected script exited with code: 0
+error: Script restart attempt #52
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":{"name":"daan","text":"hee ik ken ook een daan! zou het dezelfde zijn?","creator":" Larovaria"},"level":"info"}
+error: Forever detected script exited with code: 0
+error: Script restart attempt #53
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+error: Forever detected script exited with code: 0
+error: Script restart attempt #54
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"level":"info","message":"error: i is not defined","stack":"ReferenceError: i is not defined\n    at removeResponse (/home/natrammerbot/botfuckery/Natrammer/bot.js:135:9)\n    at Client.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:62:38)\n    at Client.emit (events.js:310:20)\n    at MessageCreateAction.handle (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/actions/MessageCreate.js:31:14)\n    at Object.module.exports [as MESSAGE_CREATE] (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)\n    at WebSocketManager.handlePacket (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/WebSocketManager.js:386:31)\n    at WebSocketShard.onPacket (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/WebSocketShard.js:436:22)\n    at WebSocketShard.onMessage (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/WebSocketShard.js:293:10)\n    at WebSocket.onMessage (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/node_modules/ws/lib/event-target.js:120:16)\n    at WebSocket.emit (events.js:310:20)"}
+(node:15686) UnhandledPromiseRejectionWarning: DiscordAPIError: Cannot send an empty message
+    at RequestHandler.execute (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/rest/RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:15686) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:15686) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+{"level":"info","message":"error: i is not defined","stack":"ReferenceError: i is not defined\n    at removeResponse (/home/natrammerbot/botfuckery/Natrammer/bot.js:135:9)\n    at Client.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:62:38)\n    at Client.emit (events.js:310:20)\n    at MessageCreateAction.handle (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/actions/MessageCreate.js:31:14)\n    at Object.module.exports [as MESSAGE_CREATE] (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)\n    at WebSocketManager.handlePacket (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/WebSocketManager.js:386:31)\n    at WebSocketShard.onPacket (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/WebSocketShard.js:436:22)\n    at WebSocketShard.onMessage (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/WebSocketShard.js:293:10)\n    at WebSocket.onMessage (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/node_modules/ws/lib/event-target.js:120:16)\n    at WebSocket.emit (events.js:310:20)"}
+(node:15686) UnhandledPromiseRejectionWarning: DiscordAPIError: Cannot send an empty message
+    at RequestHandler.execute (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/rest/RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:15686) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 2)
+error: Forever detected script exited with code: 0
+error: Script restart attempt #55
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":{"name":"daan","text":"hee ik ken ook een daan! zou het dezelfde zijn?","creator":" Larovaria"},"level":"info"}
+error: Forever detected script exited with code: 0
+error: Script restart attempt #56
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"0","level":"info"}
+{"message":{"name":"daan","text":"hee ik ken ook een daan! zou het dezelfde zijn?","creator":" Larovaria"},"level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"1","level":"info"}
+{"message":{"name":"pjenis","text":"lullig","creator":" <@699762478632009828>"},"level":"info"}
+{"level":"info","message":"error: Cannot read property 'name' of undefined","stack":"TypeError: Cannot read property 'name' of undefined\n    at removeResponse (/home/natrammerbot/botfuckery/Natrammer/bot.js:138:32)\n    at Client.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:62:38)\n    at Client.emit (events.js:310:20)\n    at MessageCreateAction.handle (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/actions/MessageCreate.js:31:14)\n    at Object.module.exports [as MESSAGE_CREATE] (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)\n    at WebSocketManager.handlePacket (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/WebSocketManager.js:386:31)\n    at WebSocketShard.onPacket (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/WebSocketShard.js:436:22)\n    at WebSocketShard.onMessage (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/WebSocketShard.js:293:10)\n    at WebSocket.onMessage (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/node_modules/ws/lib/event-target.js:120:16)\n    at WebSocket.emit (events.js:310:20)"}
+(node:15786) UnhandledPromiseRejectionWarning: DiscordAPIError: Cannot send an empty message
+    at RequestHandler.execute (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/rest/RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:15786) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:15786) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+error: Forever detected script exited with code: 0
+error: Script restart attempt #57
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"1","level":"info"}
+{"message":{"name":"pjenis","text":"lullig","creator":" <@699762478632009828>"},"level":"info"}
+{"message":[{"name":"pjenis","text":"lullig","creator":" <@699762478632009828>"}],"level":"info"}
+{"level":"info","message":"error: resposeslist is not defined","stack":"ReferenceError: resposeslist is not defined\n    at removeResponse (/home/natrammerbot/botfuckery/Natrammer/bot.js:139:21)\n    at Client.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:62:38)\n    at Client.emit (events.js:310:20)\n    at MessageCreateAction.handle (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/actions/MessageCreate.js:31:14)\n    at Object.module.exports [as MESSAGE_CREATE] (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)\n    at WebSocketManager.handlePacket (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/WebSocketManager.js:386:31)\n    at WebSocketShard.onPacket (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/WebSocketShard.js:436:22)\n    at WebSocketShard.onMessage (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/WebSocketShard.js:293:10)\n    at WebSocket.onMessage (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/node_modules/ws/lib/event-target.js:120:16)\n    at WebSocket.emit (events.js:310:20)"}
+(node:15987) UnhandledPromiseRejectionWarning: DiscordAPIError: Cannot send an empty message
+    at RequestHandler.execute (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/rest/RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:15987) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:15987) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+error: Forever detected script exited with code: 0
+error: Script restart attempt #58
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"1","level":"info"}
+{"message":{"name":"pjenis","text":"lullig","creator":" <@699762478632009828>"},"level":"info"}
+{"message":[{"name":"pjenis","text":"lullig","creator":" <@699762478632009828>"}],"level":"info"}
+{"level":"info","message":"error: resposeslist is not defined","stack":"ReferenceError: resposeslist is not defined\n    at removeResponse (/home/natrammerbot/botfuckery/Natrammer/bot.js:139:21)\n    at Client.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:62:38)\n    at Client.emit (events.js:310:20)\n    at MessageCreateAction.handle (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/actions/MessageCreate.js:31:14)\n    at Object.module.exports [as MESSAGE_CREATE] (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)\n    at WebSocketManager.handlePacket (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/WebSocketManager.js:386:31)\n    at WebSocketShard.onPacket (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/WebSocketShard.js:436:22)\n    at WebSocketShard.onMessage (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/WebSocketShard.js:293:10)\n    at WebSocket.onMessage (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/node_modules/ws/lib/event-target.js:120:16)\n    at WebSocket.emit (events.js:310:20)"}
+(node:16037) UnhandledPromiseRejectionWarning: DiscordAPIError: Cannot send an empty message
+    at RequestHandler.execute (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/rest/RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:16037) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:16037) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+error: Forever detected script exited with code: 0
+error: Script restart attempt #59
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"1","level":"info"}
+{"message":{"name":"pjenis","text":"lullig","creator":" <@699762478632009828>"},"level":"info"}
+{"message":[{"name":"pjenis","text":"lullig","creator":" <@699762478632009828>"}],"level":"info"}
+{"message":[{"name":"pjenis","text":"lullig","creator":" <@699762478632009828>"}],"level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"0","level":"info"}
+{"message":{"name":"pjenis","text":"lullig","creator":" <@699762478632009828>"},"level":"info"}
+{"message":[{"name":"pjenis","text":"lullig","creator":" <@699762478632009828>"}],"level":"info"}
+{"message":[{"name":"pjenis","text":"lullig","creator":" <@699762478632009828>"}],"level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+error: Forever detected script exited with code: 0
+error: Script restart attempt #60
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"0","level":"info"}
+{"message":{"name":"pjenis","text":"lullig","creator":" <@699762478632009828>"},"level":"info"}
+{"message":[{"name":"pp","text":"haha","creator":" <@699762478632009828>"}],"level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"3","level":"info"}
+{"message":{"name":"test","text":"123","creator":" <@699762478632009828>"},"level":"info"}
+{"message":[{"name":"pp","text":"haha","creator":" <@699762478632009828>"},{"name":"daan","text":"did you mean <@!366912522638589953>?","creator":" <@699762478632009828>"},{"name":"unit","text":"HAHAHAHAHAHAHA zei je dat nou echt? GENIAAL U N I T","creator":" <@699762478632009828>"},{"name":"haha","text":"HAHAHAHAHA","creator":" <@699762478632009828>"}],"level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+error: Forever detected script exited with code: 0
+error: Script restart attempt #61
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"error :Error: ENOENT: no such file or directory, open '/home/natrammerbot/botfuckery/Natrammer/undefined.json'","level":"info"}
+{"message":"errorTypeError: Cannot read property '0' of undefined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"error :Error: ENOENT: no such file or directory, open '/home/natrammerbot/botfuckery/Natrammer/undefined.json'","level":"info"}
+{"message":"errorTypeError: Cannot read property '0' of undefined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"error :Error: ENOENT: no such file or directory, open '/home/natrammerbot/botfuckery/Natrammer/undefined.json'","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"error :Error: ENOENT: no such file or directory, open '/home/natrammerbot/botfuckery/Natrammer/undefined.json'","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"error :Error: ENOENT: no such file or directory, open '/home/natrammerbot/botfuckery/Natrammer/undefined.json'","level":"info"}
+{"message":"errorTypeError: Cannot read property '0' of undefined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+error: Forever detected script exited with code: 0
+error: Script restart attempt #62
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"error :Error: ENOENT: no such file or directory, open '/home/natrammerbot/botfuckery/Natrammer/undefined.json'","level":"info"}
+{"message":"errorTypeError: Cannot read property '0' of undefined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+{"message":"errorReferenceError: imgrespons is not defined","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #63
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"error :Error: ENOENT: no such file or directory, open '/home/natrammerbot/botfuckery/Natrammer/undefined.json'","level":"info"}
+{"message":"errorTypeError: Cannot read property '0' of undefined","level":"info"}
+{"message":"error :Error: ENOENT: no such file or directory, open '/home/natrammerbot/botfuckery/Natrammer/undefined.json'","level":"info"}
+{"message":"errorTypeError: Cannot read property 'push' of undefined","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #64
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"error :Error: ENOENT: no such file or directory, open '/home/natrammerbot/botfuckery/Natrammer/undefined.json'","level":"info"}
+{"message":"errorTypeError: Cannot read property 'push' of undefined","level":"info"}
+{"message":"errorReferenceError: responses is not defined","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #65
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"error :Error: ENOENT: no such file or directory, open '/home/natrammerbot/botfuckery/Natrammer/undefined.json'","level":"info"}
+{"message":"errorTypeError: Cannot read property 'push' of undefined","level":"info"}
+{"message":"error :Error: ENOENT: no such file or directory, open '/home/natrammerbot/botfuckery/Natrammer/undefined.json'","level":"info"}
+{"message":"errorTypeError: Cannot read property '0' of undefined","level":"info"}
+error: Forever detected script exited with code: 0
+error: Script restart attempt #66
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"error :Error: ENOENT: no such file or directory, open '/home/natrammerbot/botfuckery/Natrammer/undefined.json'","level":"info"}
+{"message":"errorTypeError: Cannot read property '0' of undefined","level":"info"}
+{"message":"error :Error: ENOENT: no such file or directory, open '/home/natrammerbot/botfuckery/Natrammer/undefined.json'","level":"info"}
+{"message":"errorTypeError: Cannot read property 'push' of undefined","level":"info"}
+error: Forever detected script exited with code: 0
+error: Script restart attempt #67
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"error :Error: ENOENT: no such file or directory, open '/home/natrammerbot/botfuckery/Natrammer/undefined.json'","level":"info"}
+{"message":"errorTypeError: Cannot read property '0' of undefined","level":"info"}
+error: Forever detected script exited with code: 0
+error: Script restart attempt #68
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"errorTypeError: Cannot read property '0' of undefined","level":"info"}
+{"message":"errorTypeError: Cannot read property '0' of undefined","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+error: Forever detected script exited with code: 0
+error: Script restart attempt #69
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+(node:29971) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'pipe' of undefined
+    at Function.resolveFile (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/structures/APIMessage.js:283:23)
+    at /home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/structures/APIMessage.js:224:72
+    at Array.map (<anonymous>)
+    at APIMessage.resolveFiles (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/structures/APIMessage.js:224:46)
+    at TextChannel.send (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/structures/interfaces/TextBasedChannel.js:172:46)
+    at Client.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:100:29)
+    at Client.emit (events.js:310:20)
+    at MessageCreateAction.handle (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/actions/MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/WebSocketManager.js:386:31)
+(node:29971) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 2)
+(node:29971) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:29971) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'pipe' of undefined
+    at Function.resolveFile (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/structures/APIMessage.js:283:23)
+    at /home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/structures/APIMessage.js:224:72
+    at Array.map (<anonymous>)
+    at APIMessage.resolveFiles (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/structures/APIMessage.js:224:46)
+    at TextChannel.send (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/structures/interfaces/TextBasedChannel.js:172:46)
+    at Client.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:100:29)
+    at Client.emit (events.js:310:20)
+    at MessageCreateAction.handle (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/actions/MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/WebSocketManager.js:386:31)
+(node:29971) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 4)
+(node:29971) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'pipe' of undefined
+    at Function.resolveFile (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/structures/APIMessage.js:283:23)
+    at /home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/structures/APIMessage.js:224:72
+    at Array.map (<anonymous>)
+    at APIMessage.resolveFiles (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/structures/APIMessage.js:224:46)
+    at TextChannel.send (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/structures/interfaces/TextBasedChannel.js:172:46)
+    at Client.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:100:29)
+    at Client.emit (events.js:310:20)
+    at MessageCreateAction.handle (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/actions/MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/client/websocket/WebSocketManager.js:386:31)
+(node:29971) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 6)
+error: Forever detected script exited with code: 0
+error: Script restart attempt #70
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"errorTypeError: Cannot read property 'slice' of undefined","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+error: Forever detected script exited with code: 0
+error: Script restart attempt #71
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #72
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #73
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #74
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #75
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #76
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #77
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #78
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #79
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #80
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #81
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #82
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #83
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #84
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #85
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #86
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #87
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #88
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #89
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #90
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #91
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #92
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #93
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #94
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #95
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #96
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #97
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #98
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #99
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #100
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #101
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #102
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #103
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #104
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #105
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #106
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #107
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #108
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #109
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #110
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #111
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #112
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #113
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #114
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #115
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #116
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #117
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #118
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #119
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #120
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #121
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #122
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #123
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #124
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #125
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #126
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #127
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #128
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #129
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #130
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #131
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #132
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #133
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #134
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #135
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #136
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #137
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #138
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #139
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #140
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #141
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #142
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #143
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #144
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #145
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #146
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #147
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #148
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #149
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #150
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #151
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #152
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #153
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #154
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #155
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #156
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #157
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #158
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #159
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #160
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #161
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #162
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #163
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #164
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #165
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #166
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #167
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #168
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #169
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #170
+/home/natrammerbot/botfuckery/Natrammer/bot.js:35
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #171
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"errorReferenceError: client is not defined","level":"info"}

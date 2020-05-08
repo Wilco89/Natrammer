@@ -2,6 +2,7 @@ const Discord = require('discord.js');
 const logger = require('winston');
 const auth = require('./auth.json');
 const fs = require('fs');
+//const Canvas = require('canvas');
 
 // Configure logger settings
 logger.remove(logger.transports.Console);
@@ -21,6 +22,28 @@ bot.on('ready', function (evt) {
     logger.info('Logged in as: ');
     logger.info(bot.user.tag);
 });
+/*
+bot.on('guildMemberAdd', member => {
+	const channel = member.guild.channels.cache.find(ch => ch.name === 'member-log');
+	if (!channel) return;
+
+  // Set a new canvas to the dimensions of 700x250 pixels
+	const canvas = Canvas.createCanvas(700, 250);
+	// ctx (context) will be used to modify a lot of the canvas
+
+  const ctx = canvas.getContext('2d');
+  const background = await Canvas.loadImage('https://discordjs.guide/assets/img/8CQvVRV.cced9193.png');
+
+  ctx.drawImage(background, 0, 0, canvas.width, canvas.height);
+
+  // Use helpful Attachment class structure to process the file for you
+	const attachment = new Discord.MessageAttachment(canvas.toBuffer(), 'welcome-image.png');
+
+	bot.send(`Welcome to the server, ${member}!`, attachment);
+});
+*/
+
+
 bot.on('message', message => {
     try{
       if (message.author.bot) return;
@@ -58,6 +81,9 @@ bot.on('message', message => {
             case 'addresp':
               message.channel.send(addResponse(args, message.content, message.client));
             break;
+            case 'imgresp':
+              message.channel.send(addImgResponse(args, message.content, message.client));
+            break;
             case 'remresp':
                 message.channel.send(removeResponse(args));
             break;
@@ -68,24 +94,43 @@ bot.on('message', message => {
             case 'testimg':
               message.channel.send("ayy lmao", {files: ["./home/natrammerbot/botfuckery/Natrammer/misc/pepe.png"]});
             break;
+            case 'reload':
+              return bot.destroy();
+            break;
+            case 'join':
+              client.emit('guildMemberAdd', message.member);
+            break;
             // Just add any case commands if you want to..
          }
        }
-         resplist = getResponseList();
+         resplist = getResponseList("responses");
          for (resp in resplist){
            if (message.content.toLowerCase().includes(resplist[resp]['name'])){
-             message.channel.send(resplist[resp]['text'], {files: [resplist[resp]['img']]});
+             message.channel.send(resplist[resp]['text']);
+             //message.channel.send(resplist[resp]['text'], {files: [resplist[resp]['img']]} - Deze line gebruiken wanneer imgresponses weer werken.
            }
         }
+        resplist = getResponseList("imgrespons");
+        for (resp in resplist){
+          if (message.content.toLowerCase().includes(resplist[resp]['name'])){
+            message.channel.send({files: [resplist[resp]['img']]});
+            //message.channel.send(resplist[resp]['text'], {files: [resplist[resp]['img']]} - Deze line gebruiken wanneer imgresponses weer werken.
+          }
+       }
+
+
+
+
+
      }
      catch(e){
        logger.info("error" + e);
      }
 });
 
-function getResponseList(){
+function getResponseList(soort){
   try{
-    responses = fs.readFileSync("/home/natrammerbot/botfuckery/Natrammer/responses.json", {"encoding": "utf-8"});
+    responses = fs.readFileSync(`/home/natrammerbot/botfuckery/Natrammer/${soort}.json`, {"encoding": "utf-8"});
   return JSON.parse(responses);
 }
   catch(e){
@@ -97,7 +142,7 @@ function getResponseList(){
 function addResponse(args, message, user){
   try{
     respname = args[0];
-    responseslist = getResponseList();
+    responseslist = getResponseList("responses");
 
     //check if already defineddddd
     for (resp in responseslist){
@@ -120,16 +165,52 @@ function addResponse(args, message, user){
   }
 }
 
+function addImgResponse(args, message, user){
+  try{
+    respname = args[0];
+    responseslist = getResponseList("imgrespons");
+
+    //check if already definedd
+    for (resp in responseslist){
+      if (responseslist[resp]['name'] == respname){
+        return respname + ' is reeds gedefinieerd, onze welgemeende excuses voor dit onplezierige ongemakje.';
+      }
+    }
+
+    img = args[1];
+    if(img.slice(-4) != ".jpg" && img.slice(-4) != ".png" && img.slice(-4) != ".gif"){
+      return "Alleen .jpg, .png en .gif zijn toegestaan!";
+      logger.info("Someone wanted to add something other than an image. Fucking idiots!");
+    }
+
+    bericht = message.slice(10 + respname.length);
+    new_response = JSON.parse(`{"name" : "${respname}", "img" : "${img}"}`);
+    responseslist.push(new_response);
+    fs.writeFile("/home/natrammerbot/botfuckery/Natrammer/imgrespons.json", JSON.stringify(responseslist), function (err){
+      if (err) throw err;
+});
+    return `${respname} is added to the response database`;
+  }
+  catch(e){
+    logger.info("error" + e);
+    return "er ging iets mis hij is niet toegevoegd";
+  }
+}
+
 function removeResponse(args){
   try{
     respname = args[0];
     responseslist = getResponseList();
-
+    //logger.info(respname);
+    //logger.info(responseslist);
     for (resp in responseslist){
       if (responseslist[resp]['name'] == respname){
-        responseslist.pop(responseslist[resp]);
+        logger.info(resp);
+        logger.info(responseslist[resp]);
+        responseslist.splice(resp, 1);
+        logger.info(responseslist);
         fs.writeFile("/home/natrammerbot/botfuckery/Natrammer/responses.json", JSON.stringify(responseslist), function (err){
-          if (err) throw err;
+          if (err) return 'err in het schrijven + ' + err;
         });
         return respname + ' is verwijderd';
       }
@@ -173,9 +254,7 @@ function createCpEmbed(){
     .setDescription('Een lijst met alle copypastas.')
     .addFields(
       { name: 'Gebruik met !cp [titel].', value: listCopyPasta() },
-    )
-    .setFooter('haha unit');
-
+    );
     return cpEmbed;
 }
 
