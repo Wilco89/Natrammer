@@ -206,6 +206,9 @@ function removeResponse(args){
       case 'txt':
         resptype = "responses";
       break;
+      default:
+        return "Oeps! Probeer het opnieuw met !remresp [txt/img] [naam]. Kan gewoon. Helemaal gratis *wanneer je een premiumgebruiker bent*";
+      break;
     }
     respname = args[1];
     logger.info(resptype);
