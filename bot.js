@@ -199,17 +199,23 @@ function addImgResponse(args, message, user){
 
 function removeResponse(args){
   try{
-    respname = args[0];
-    responseslist = getResponseList();
-    //logger.info(respname);
+    switch(args[0]){
+      case 'img':
+        resptype = "imgrespons";
+      break;
+      case 'txt':
+        resptype = "responses";
+      break;
+    }
+    respname = args[1];
+    logger.info(resptype);
+    logger.info(respname);
+    responseslist = getResponseList(resptype);
     //logger.info(responseslist);
     for (resp in responseslist){
       if (responseslist[resp]['name'] == respname){
-        logger.info(resp);
-        logger.info(responseslist[resp]);
         responseslist.splice(resp, 1);
-        logger.info(responseslist);
-        fs.writeFile("/home/natrammerbot/botfuckery/Natrammer/responses.json", JSON.stringify(responseslist), function (err){
+        fs.writeFile(`/home/natrammerbot/botfuckery/Natrammer/${resptype}.json`, JSON.stringify(responseslist), function (err){
           if (err) return 'err in het schrijven + ' + err;
         });
         return respname + ' is verwijderd';
