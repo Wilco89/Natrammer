@@ -21,6 +21,8 @@ bot.on('ready', function (evt) {
     logger.info('Connected');
     logger.info('Logged in as: ');
     logger.info(bot.user.tag);
+    bot.user.setActivity('people horribly dying on the darkweb', { type: 'WATCHING' });
+    bot.user.setAvatar(`/home/natrammerbot/botfuckery/Natrammer/nrb.png`);
 });
 /*
 bot.on('guildMemberAdd', member => {
@@ -50,7 +52,7 @@ bot.on('message', message => {
 
     // Our bot needs to know if it will execute a command
     // It will listen for messages that will start with `!`
-    if (message.content.substring(0, 1) == '!') {
+    if (message.content.substring(0, 1) == '+') {
         var args = message.content.substring(1).split(' ');
         var cmd = args[0];
 
@@ -59,6 +61,14 @@ bot.on('message', message => {
             // !ping
             case 'ping':
                 message.channel.send("Pong!");
+            break;
+            case 'cum':
+              logger.info(args[0]);
+              const cumchan = bot.channels.cache.get(args[0].slice(2, -1));
+              cumchan.send("Woah! That's a lot of cum!");
+              //bot.channels.get(args[0].slice(2, -1)).send("Woah! That's a lot of cum!");
+                //.then(channel => message.channel.send("Woah! That's a lot of cum!"))
+                //.catch(console.error);
             break;
             case 'nrb':
               message.channel.send(getHelp(args[0]));

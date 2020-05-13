@@ -1061,3 +1061,184 @@
 {"message":"Logged in as: ","level":"info"}
 {"message":"NatrammerBot#1203","level":"info"}
 {"message":"errorReferenceError: client is not defined","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"error :Error: ENOENT: no such file or directory, open '/home/natrammerbot/botfuckery/Natrammer/undefined.json'","level":"info"}
+{"message":"error :Error: ENOENT: no such file or directory, open '/home/natrammerbot/botfuckery/Natrammer/undefined.json'","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"error :Error: ENOENT: no such file or directory, open '/home/natrammerbot/botfuckery/Natrammer/undefined.json'","level":"info"}
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"error :Error: ENOENT: no such file or directory, open '/home/natrammerbot/botfuckery/Natrammer/undefined.json'","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"errorSyntaxError: Unexpected token \n in JSON at position 274","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"error :Error: ENOENT: no such file or directory, open '/home/natrammerbot/botfuckery/Natrammer/undefined.json'","level":"info"}
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"abc","level":"info"}
+{"message":"def","level":"info"}
+{"message":"def","level":"info"}
+{"message":"def","level":"info"}
+{"message":"error :Error: ENOENT: no such file or directory, open '/home/natrammerbot/botfuckery/Natrammer/undefined.json'","level":"info"}
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"abc","level":"info"}
+{"message":"def","level":"info"}
+{"message":"def","level":"info"}
+{"message":"def","level":"info"}
+{"message":"error :Error: ENOENT: no such file or directory, open '/home/natrammerbot/botfuckery/Natrammer/undefined.json'","level":"info"}
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"abc","level":"info"}
+{"message":"def","level":"info"}
+{"message":"error :Error: ENOENT: no such file or directory, open '/home/natrammerbot/botfuckery/Natrammer/undefined.json'","level":"info"}
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"abc","level":"info"}
+{"message":"def","level":"info"}
+{"message":"error :Error: ENOENT: no such file or directory, open '/home/natrammerbot/botfuckery/Natrammer/abc.json'","level":"info"}
+{"message":"responses","level":"info"}
+{"message":"akenixx","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"pp","level":"info"}
+{"level":"info"}
+{"message":"error :Error: ENOENT: no such file or directory, open '/home/natrammerbot/botfuckery/Natrammer/pp.json'","level":"info"}
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"responses","level":"info"}
+{"message":"pp","level":"info"}
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"responses","level":"info"}
+{"message":"pp","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"imgrespons","level":"info"}
+{"message":"wauw","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"imgrespons","level":"info"}
+{"level":"info"}
+{"message":"imgrespons","level":"info"}
+{"message":"wow","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"imgrespons","level":"info"}
+{"message":"...","level":"info"}
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"errorReferenceError: client is not defined","level":"info"}
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"errorTypeError: bot.channels.get is not a function","level":"info"}
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"errorTypeError: bot.channels.get is not a function","level":"info"}
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"errorTypeError: bot.channels.fetch(...).send is not a function","level":"info"}
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"errorReferenceError: error is not defined","level":"info"}
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"<#693491704040521830>","level":"info"}
+{"message":"errorReferenceError: error is not defined","level":"info"}
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"<#693491704040521830>","level":"info"}
+{"message":"errorReferenceError: error is not defined","level":"info"}
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"<#693491704040521830>","level":"info"}
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"<#693491704040521830>","level":"info"}
+{"message":"general","level":"info"}
+{"message":"<#693491704040521830>","level":"info"}
+{"message":"general","level":"info"}
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"<#693491704040521830>","level":"info"}
+{"message":"errorTypeError: bot.channels.fetch(...).send is not a function","level":"info"}
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"<#693491704040521830>","level":"info"}
+{"message":"<#710142118898958337>","level":"info"}
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"<#710142118898958337>","level":"info"}
+{"message":"errorTypeError: bot.channels.get is not a function","level":"info"}
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"<#710142118898958337>","level":"info"}
+{"message":"errorReferenceError: client is not defined","level":"info"}
+{"message":"<#699306246880231464>","level":"info"}
+{"message":"errorReferenceError: client is not defined","level":"info"}
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"<#710142118898958337>","level":"info"}
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}

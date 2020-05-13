@@ -12611,3 +12611,1270 @@ SyntaxError: await is only valid in async function
     at Function.Module._load (internal/modules/cjs/loader.js:877:14)
     at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
     at internal/main/run_main_module.js:18:47
+(node:4230) UnhandledPromiseRejectionWarning: DiscordAPIError: Invalid Form Body
+channel_id: Value "<" is not snowflake.
+    at RequestHandler.execute (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/rest/RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:4230) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:4230) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:4476) UnhandledPromiseRejectionWarning: DiscordAPIError: Invalid Form Body
+channel_id: Value "<" is not snowflake.
+    at RequestHandler.execute (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/rest/RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:4476) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:4476) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:4583) UnhandledPromiseRejectionWarning: DiscordAPIError: Invalid Form Body
+channel_id: Value "<" is not snowflake.
+    at RequestHandler.execute (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/rest/RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:4583) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:4583) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:4925) UnhandledPromiseRejectionWarning: DiscordAPIError: 404: Not Found
+    at RequestHandler.execute (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/rest/RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:4925) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:4925) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+DiscordAPIError: 404: Not Found
+    at RequestHandler.execute (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/rest/RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5) {
+  method: 'get',
+  path: '/channels/#693491704040521830',
+  code: 0,
+  httpStatus: 404
+}
+/home/natrammerbot/botfuckery/Natrammer/bot.js:66
+              const cumchan = bot.channels.cache.get(args[0].slice(2, -1)));
+                                                                          ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:66
+              const cumchan = bot.channels.cache.get(args[0].slice(2, -1)));
+                                                                          ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:66
+              const cumchan = bot.channels.cache.get(args[0].slice(2, -1)));
+                                                                          ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:66
+              const cumchan = bot.channels.cache.get(args[0].slice(2, -1)));
+                                                                          ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:66
+              const cumchan = bot.channels.cache.get(args[0].slice(2, -1)));
+                                                                          ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:66
+              const cumchan = bot.channels.cache.get(args[0].slice(2, -1)));
+                                                                          ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb', { type: 'WATCHING' });
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb', { type: 'WATCHING' });
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb', { type: 'WATCHING' });
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb', { type: 'WATCHING' });
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb', { type: 'WATCHING' });
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb', { type: 'WATCHING' });
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb', { type: 'WATCHING' });
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47

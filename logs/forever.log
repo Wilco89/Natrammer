@@ -16022,3 +16022,1709 @@ error: Script restart attempt #171
 {"message":"Logged in as: ","level":"info"}
 {"message":"NatrammerBot#1203","level":"info"}
 {"message":"errorReferenceError: client is not defined","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"error :Error: ENOENT: no such file or directory, open '/home/natrammerbot/botfuckery/Natrammer/undefined.json'","level":"info"}
+{"message":"error :Error: ENOENT: no such file or directory, open '/home/natrammerbot/botfuckery/Natrammer/undefined.json'","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"error :Error: ENOENT: no such file or directory, open '/home/natrammerbot/botfuckery/Natrammer/undefined.json'","level":"info"}
+error: Forever detected script exited with code: 0
+error: Script restart attempt #172
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"error :Error: ENOENT: no such file or directory, open '/home/natrammerbot/botfuckery/Natrammer/undefined.json'","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"errorSyntaxError: Unexpected token \n in JSON at position 274","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"error :Error: ENOENT: no such file or directory, open '/home/natrammerbot/botfuckery/Natrammer/undefined.json'","level":"info"}
+error: Forever detected script exited with code: 0
+error: Script restart attempt #173
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"abc","level":"info"}
+{"message":"def","level":"info"}
+{"message":"def","level":"info"}
+{"message":"def","level":"info"}
+{"message":"error :Error: ENOENT: no such file or directory, open '/home/natrammerbot/botfuckery/Natrammer/undefined.json'","level":"info"}
+error: Forever detected script exited with code: 0
+error: Script restart attempt #174
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"abc","level":"info"}
+{"message":"def","level":"info"}
+{"message":"def","level":"info"}
+{"message":"def","level":"info"}
+{"message":"error :Error: ENOENT: no such file or directory, open '/home/natrammerbot/botfuckery/Natrammer/undefined.json'","level":"info"}
+error: Forever detected script exited with code: 0
+error: Script restart attempt #175
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"abc","level":"info"}
+{"message":"def","level":"info"}
+{"message":"error :Error: ENOENT: no such file or directory, open '/home/natrammerbot/botfuckery/Natrammer/undefined.json'","level":"info"}
+error: Forever detected script exited with code: 0
+error: Script restart attempt #176
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"abc","level":"info"}
+{"message":"def","level":"info"}
+{"message":"error :Error: ENOENT: no such file or directory, open '/home/natrammerbot/botfuckery/Natrammer/abc.json'","level":"info"}
+{"message":"responses","level":"info"}
+{"message":"akenixx","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"pp","level":"info"}
+{"level":"info"}
+{"message":"error :Error: ENOENT: no such file or directory, open '/home/natrammerbot/botfuckery/Natrammer/pp.json'","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #177
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"responses","level":"info"}
+{"message":"pp","level":"info"}
+error: Forever detected script exited with code: 0
+error: Script restart attempt #178
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"responses","level":"info"}
+{"message":"pp","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"imgrespons","level":"info"}
+{"message":"wauw","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+{"message":"imgrespons","level":"info"}
+{"level":"info"}
+{"message":"imgrespons","level":"info"}
+{"message":"wow","level":"info"}
+{"message":"error :SyntaxError: Unexpected end of JSON input","level":"info"}
+error: Forever detected script exited with code: 0
+error: Script restart attempt #179
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"imgrespons","level":"info"}
+{"message":"...","level":"info"}
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #180
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"errorReferenceError: client is not defined","level":"info"}
+error: Forever detected script exited with code: 0
+error: Script restart attempt #181
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+error: Forever detected script exited with code: 0
+error: Script restart attempt #182
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"errorTypeError: bot.channels.get is not a function","level":"info"}
+error: Forever detected script exited with code: 0
+error: Script restart attempt #183
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"errorTypeError: bot.channels.get is not a function","level":"info"}
+error: Forever detected script exited with code: 0
+error: Script restart attempt #184
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"errorTypeError: bot.channels.fetch(...).send is not a function","level":"info"}
+(node:4230) UnhandledPromiseRejectionWarning: DiscordAPIError: Invalid Form Body
+channel_id: Value "<" is not snowflake.
+    at RequestHandler.execute (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/rest/RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:4230) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:4230) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+error: Forever detected script exited with code: 0
+error: Script restart attempt #185
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"errorReferenceError: error is not defined","level":"info"}
+(node:4476) UnhandledPromiseRejectionWarning: DiscordAPIError: Invalid Form Body
+channel_id: Value "<" is not snowflake.
+    at RequestHandler.execute (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/rest/RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:4476) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:4476) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+error: Forever detected script exited with code: 0
+error: Script restart attempt #186
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"<#693491704040521830>","level":"info"}
+{"message":"errorReferenceError: error is not defined","level":"info"}
+(node:4583) UnhandledPromiseRejectionWarning: DiscordAPIError: Invalid Form Body
+channel_id: Value "<" is not snowflake.
+    at RequestHandler.execute (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/rest/RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:4583) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:4583) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+error: Forever detected script exited with code: 0
+error: Script restart attempt #187
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"<#693491704040521830>","level":"info"}
+{"message":"errorReferenceError: error is not defined","level":"info"}
+(node:4925) UnhandledPromiseRejectionWarning: DiscordAPIError: 404: Not Found
+    at RequestHandler.execute (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/rest/RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:4925) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:4925) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+error: Forever detected script exited with code: 0
+error: Script restart attempt #188
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"<#693491704040521830>","level":"info"}
+DiscordAPIError: 404: Not Found
+    at RequestHandler.execute (/home/natrammerbot/botfuckery/Natrammer/node_modules/discord.js/src/rest/RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5) {
+  method: 'get',
+  path: '/channels/#693491704040521830',
+  code: 0,
+  httpStatus: 404
+}
+error: Forever detected script exited with code: 0
+error: Script restart attempt #189
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"<#693491704040521830>","level":"info"}
+{"message":"general","level":"info"}
+{"message":"<#693491704040521830>","level":"info"}
+{"message":"general","level":"info"}
+error: Forever detected script exited with code: 0
+error: Script restart attempt #190
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"<#693491704040521830>","level":"info"}
+{"message":"errorTypeError: bot.channels.fetch(...).send is not a function","level":"info"}
+error: Forever detected script exited with code: 0
+error: Script restart attempt #191
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"<#693491704040521830>","level":"info"}
+{"message":"<#710142118898958337>","level":"info"}
+error: Forever detected script exited with code: 0
+error: Script restart attempt #192
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"<#710142118898958337>","level":"info"}
+{"message":"errorTypeError: bot.channels.get is not a function","level":"info"}
+error: Forever detected script exited with code: 0
+error: Script restart attempt #193
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"<#710142118898958337>","level":"info"}
+{"message":"errorReferenceError: client is not defined","level":"info"}
+{"message":"<#699306246880231464>","level":"info"}
+{"message":"errorReferenceError: client is not defined","level":"info"}
+error: Forever detected script exited with code: 0
+error: Script restart attempt #194
+/home/natrammerbot/botfuckery/Natrammer/bot.js:66
+              const cumchan = bot.channels.cache.get(args[0].slice(2, -1)));
+                                                                          ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #195
+/home/natrammerbot/botfuckery/Natrammer/bot.js:66
+              const cumchan = bot.channels.cache.get(args[0].slice(2, -1)));
+                                                                          ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #196
+/home/natrammerbot/botfuckery/Natrammer/bot.js:66
+              const cumchan = bot.channels.cache.get(args[0].slice(2, -1)));
+                                                                          ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #197
+/home/natrammerbot/botfuckery/Natrammer/bot.js:66
+              const cumchan = bot.channels.cache.get(args[0].slice(2, -1)));
+                                                                          ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #198
+/home/natrammerbot/botfuckery/Natrammer/bot.js:66
+              const cumchan = bot.channels.cache.get(args[0].slice(2, -1)));
+                                                                          ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #199
+/home/natrammerbot/botfuckery/Natrammer/bot.js:66
+              const cumchan = bot.channels.cache.get(args[0].slice(2, -1)));
+                                                                          ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #200
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb', { type: 'WATCHING' });
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #201
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb', { type: 'WATCHING' });
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #202
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb', { type: 'WATCHING' });
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #203
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb', { type: 'WATCHING' });
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #204
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb', { type: 'WATCHING' });
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #205
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb', { type: 'WATCHING' });
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #206
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb', { type: 'WATCHING' });
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #207
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+{"message":"<#710142118898958337>","level":"info"}
+error: Forever detected script exited with code: 0
+error: Script restart attempt #208
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #209
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #210
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #211
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #212
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #213
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #214
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #215
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #216
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #217
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #218
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #219
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #220
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #221
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #222
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #223
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #224
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #225
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #226
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #227
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #228
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #229
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #230
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #231
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #232
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #233
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #234
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #235
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #236
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #237
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #238
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #239
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #240
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #241
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #242
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #243
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #244
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #245
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #246
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #247
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #248
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #249
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #250
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #251
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #252
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #253
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #254
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #255
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #256
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #257
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #258
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #259
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #260
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #261
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #262
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #263
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #264
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #265
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #266
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #267
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #268
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #269
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #270
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #271
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #272
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #273
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #274
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #275
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #276
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #277
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #278
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #279
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #280
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #281
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #282
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #283
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #284
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #285
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #286
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #287
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #288
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #289
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #290
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #291
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #292
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #293
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #294
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #295
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #296
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #297
+/home/natrammerbot/botfuckery/Natrammer/bot.js:15
+bot.user.setActivity('people horribly dying on the darkweb');
+         ^
+
+TypeError: Cannot read property 'setActivity' of null
+    at Object.<anonymous> (/home/natrammerbot/botfuckery/Natrammer/bot.js:15:10)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+error: Forever detected script exited with code: 1
+error: Script restart attempt #298
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+error: Forever detected script exited with code: 0
+error: Script restart attempt #299
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
+error: Forever detected script exited with code: 0
+error: Script restart attempt #300
+{"message":{"shard":null,"users":[],"guilds":[],"channels":[],"user":null},"level":"info"}
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"NatrammerBot#1203","level":"info"}
